@@ -1,0 +1,1993 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+
+        <meta charset="utf-8">
+        
+
+        
+
+    
+
+    
+
+
+
+        <title>Bolterdalen 1936 by Erik Schytt Holmlund - 3D model - Sketchfab</title>
+        
+        <meta name="apple-mobile-web-app-title" content="Sketchfab">
+        <meta name="apple-itunes-app" content="app-id=1201268000">
+
+        <link rel="icon" href="https://static.sketchfab.com/static/builds/web/dist/favicon-6c5d670c19e082c41e48b3e8619c41ed.png">
+        <link rel="apple-touch-icon-precomposed" href="https://static.sketchfab.com/static/builds/web/dist/touch-icon-ce5a57268adebb0f95df51336fcbcb47.png">
+        <link rel="manifest" href="/.well-known/android-app-manifest.json">
+
+        
+            
+
+    <link rel="stylesheet" id="main-stylesheet" href="https://static.sketchfab.com/static/builds/web/dist/website-ce3d3c9c7039c1c8e6a6756ef9cbf6f2.css" />
+
+
+        
+
+        
+
+    
+
+
+
+        
+
+    
+    
+    
+    
+
+    <meta property="og:site_name" content="Sketchfab">
+
+    <meta property="twitter:site" content="@sketchfab">
+    <meta property="twitter:domain" content="https://sketchfab.com/">
+
+
+    <meta name="p:domain_verify" content="af528e3df5f766ca012f5e065c7cb812">
+    <meta name="tumblr:app_id" content="kU1rZ3N6wWaGFyaR9rfWDzOrdod7eKcpyzkjFjWlmptbL0d0DR" />
+
+
+    
+        
+            <meta name="tumblr:url" content="/models/8a781f5025ba45b98ed6feefb909eec5"/>
+        
+    
+
+    
+        <meta property="twitter:card" content="player">
+    
+
+    
+        
+    
+
+    
+        <meta property="twitter:title" content="Bolterdalen 1936 by Erik Schytt Holmlund - 3D model">
+        <meta property="og:title" content="Bolterdalen 1936 by Erik Schytt Holmlund - 3D model">
+        <meta property="tumblr:title" content="Bolterdalen 1936 by Erik Schytt Holmlund - 3D model">
+    
+
+    
+        <meta property="og:type" content="video.other">
+        <meta property="tumblr:type" content="video.other">
+    
+
+    
+
+    
+        <meta property="twitter:image" content="https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/thumbnails/16eb4397e634452993309b2b536f73e6/1024x576.jpeg">
+        <meta property="og:image" content="https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/thumbnails/16eb4397e634452993309b2b536f73e6/1024x576.jpeg">
+        <meta property="og:image:width" content="1024">
+        <meta property="og:image:height" content="768">
+        <meta property="tumblr:image" content="https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/thumbnails/16eb4397e634452993309b2b536f73e6/1024x576.jpeg">
+    
+
+    
+        <link rel="alternate" type="application/json+oembed" href="https://sketchfab.com/oembed?url=https://sketchfab.com/models/8a781f5025ba45b98ed6feefb909eec5" title="Bolterdalen 1936 by Erik Schytt Holmlund - 3D model">
+    
+
+    
+        <meta property="og:url" content="https://sketchfab.com/models/8a781f5025ba45b98ed6feefb909eec5/embed?autostart=1">
+        <meta property="og:video:type" content="text/html">
+        <meta property="og:video:url" content="https://sketchfab.com/models/8a781f5025ba45b98ed6feefb909eec5/embed?autostart=1">
+        <meta property="og:video:secure_url" content="https://sketchfab.com/models/8a781f5025ba45b98ed6feefb909eec5/embed?autostart=1">
+        <meta property="og:video:width" content="800">
+        <meta property="og:video:height" content="600">
+
+        <meta name="tumblr:video:secure_url" content="https://sketchfab.com/models/8a781f5025ba45b98ed6feefb909eec5/embed?autostart=1">
+        <meta name="tumblr:video:type" content="text/html">
+        <meta name="tumblr:video:width" content="800">
+        <meta name="tumblr:video:height" content="600">
+
+        <meta name="twitter:player" content="https://sketchfab.com/models/8a781f5025ba45b98ed6feefb909eec5/embed?autostart=1">
+        <meta name="twitter:player:stream:content_type" content="text/html">
+        <meta name="twitter:player:width" content="800">
+        <meta name="twitter:player:height" content="600">
+    
+
+
+
+        
+
+    
+
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    
+
+    
+         <meta name="theme-color" content="#1CAAD9">
+    
+
+
+        
+
+    <meta name="description" content="">
+
+    
+        
+            
+            
+            
+            
+            <link rel="canonical" href="https://sketchfab.com/models/8a781f5025ba45b98ed6feefb909eec5">
+        
+    
+        
+    
+        
+    
+
+    
+        <meta name="robots" content="noindex">
+    
+
+
+        
+
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+
+    
+        
+            <link rel="dns-prefetch" href="https://static.sketchfab.com">
+        
+            <link rel="dns-prefetch" href="https://media.sketchfab.com">
+        
+    
+
+
+        
+
+    <script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "WebSite",
+          "url": "https://sketchfab.com",
+          "name": "Sketchfab",
+          "creator": {
+            "@type": "Organization",
+            "name": "Sketchfab",
+            "location": {
+                "@type": "Place",
+                "name": "Paris / New York"
+            }
+          },
+          "description": "",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://sketchfab.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+    </script>
+
+
+
+        
+
+    </head>
+
+    <body>
+
+        
+
+    
+    
+
+    
+
+
+
+
+<header id="main-header" class="top">
+
+    <div class="container">
+
+        
+<div class="logo">
+    <a class="link" href="/">
+        
+        <img src="https://static.sketchfab.com/static/builds/web/dist/sketchfab-logo-8bc6696c7ed7369e1acaee4ec5168169.png" width="121" height="30" class="visual" alt="Sketchfab">
+        
+    </a>
+</div>
+
+
+        <ul class="navigation">
+            <li class="section">
+                <a href="/models/popular" class="link show-hover-menu">Explore</a>
+                <div class="hover-menu navigation-menu">
+                    <div class="categories-menu">
+                        <span class="title">CATEGORIES</span>
+                        <ul class="categories-list">
+                            
+                                <li>
+                                    <a href="/models/categories/animals-pets">
+                                        <i class="icon custom-icons icon-category-animals-pets"></i>
+                                        <span>Animals &amp; Pets</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/architecture">
+                                        <i class="icon custom-icons icon-category-architecture"></i>
+                                        <span>Architecture</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/art-abstract">
+                                        <i class="icon custom-icons icon-category-art-abstract"></i>
+                                        <span>Art &amp; Abstract</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/cars-vehicles">
+                                        <i class="icon custom-icons icon-category-cars-vehicles"></i>
+                                        <span>Cars &amp; vehicles</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/characters-creatures">
+                                        <i class="icon custom-icons icon-category-characters-creatures"></i>
+                                        <span>Characters &amp; Creatures</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/cultural-heritage-history">
+                                        <i class="icon custom-icons icon-category-cultural-heritage-history"></i>
+                                        <span>Cultural Heritage &amp; History</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/electronics-gadgets">
+                                        <i class="icon custom-icons icon-category-electronics-gadgets"></i>
+                                        <span>Electronics &amp; Gadgets</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/fashion-style">
+                                        <i class="icon custom-icons icon-category-fashion-style"></i>
+                                        <span>Fashion &amp; Style</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/food-drink">
+                                        <i class="icon custom-icons icon-category-food-drink"></i>
+                                        <span>Food &amp; Drink</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/furniture-home">
+                                        <i class="icon custom-icons icon-category-furniture-home"></i>
+                                        <span>Furniture &amp; Home</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/gaming">
+                                        <i class="icon custom-icons icon-category-gaming"></i>
+                                        <span>Gaming</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/music">
+                                        <i class="icon custom-icons icon-category-music"></i>
+                                        <span>Music</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/nature-plants">
+                                        <i class="icon custom-icons icon-category-nature-plants"></i>
+                                        <span>Nature &amp; Plants</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/news-politics">
+                                        <i class="icon custom-icons icon-category-news-politics"></i>
+                                        <span>News &amp; Politics</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/people">
+                                        <i class="icon custom-icons icon-category-people"></i>
+                                        <span>People</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/places-travel">
+                                        <i class="icon custom-icons icon-category-places-travel"></i>
+                                        <span>Places &amp; Travel</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/science-technology">
+                                        <i class="icon custom-icons icon-category-science-technology"></i>
+                                        <span>Science &amp; Technology</span>
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="/models/categories/sports-fitness">
+                                        <i class="icon custom-icons icon-category-sports-fitness"></i>
+                                        <span>Sports &amp; Fitness</span>
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                    <div class="highlights-menu">
+                        <span class="title">HIGHLIGHTS</span>
+                        <ul class="highlights-list">
+                            <li>
+                                <a href="/models/popular">
+                                    <i class="icon custom-icons icon-popular"></i>
+                                    <span>Popular</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/models/staffpicks">
+                                    <i class="icon custom-icons icon-staffpicks-icon"></i>
+                                    <span>Staff picks</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/models?date=week&amp;features=animated&amp;sort_by=-likeCount">
+                                    <i class="icon fa fa-film"></i>
+                                    <span>Animations</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/vr">
+                                    <i class="icon custom-icons icon-vr-icon"></i>
+                                    <span>Virtual Reality</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/models?date=week&amp;features=downloadable&amp;sort_by=-likeCount">
+                                    <i class="icon fa fa-download"></i>
+                                    <span>Downloadable</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/collections/popular">
+                                    <i class="icon custom-icons icon-collection"></i>
+                                    <span>Collections</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </li>
+            <li class="section">
+                <a href="/members" class="link show-hover-menu">Community</a>
+                <ul class="hover-menu">
+                    <li><a href="/members">All users</a></li>
+                    <li><a href="/members/pros">Pros</a></li>
+                    <li><a href="https://forum.sketchfab.com?utm_source=website&amp;utm_campaign=header">Forum</a></li>
+                </ul>
+            </li>
+            <li class="section">
+                <a href="https://blog.sketchfab.com?utm_source=website&amp;utm_campaign=header" class="link show-hover-menu">Blog</a>
+                <ul class="hover-menu">
+                    <li><a href="https://blog.sketchfab.com/category/new-on-sketchfab/?utm_source=website&amp;utm_campaign=header">New on Sketchfab</a></li>
+                    <li><a href="https://blog.sketchfab.com/category/community-story/?utm_source=website&amp;utm_campaign=header">Community stories</a></li>
+                    <li><a href="https://blog.sketchfab.com/category/contest/?utm_source=website&amp;utm_campaign=header">Contests</a></li>
+                    <li><a href="https://blog.sketchfab.com/category/event/?utm_source=website&amp;utm_campaign=header">Events</a></li>
+                    <li><a href="https://blog.sketchfab.com/category/tutorial/?utm_source=website&amp;utm_campaign=header">Tutorials</a></li>
+                    <li><a href="https://blog.sketchfab.com/category/inside-sketchfab/?utm_source=website&amp;utm_campaign=header">Inside Sketchfab</a></li>
+                </ul>
+            </li>
+        </ul>
+
+        <a class="search-responsive-button" data-action="open-search">
+            <div class="search-light-icon"></div>
+        </a>
+
+        <form class="search" data-action="search" action=".">
+            <div class="box">
+                <button class="search-icon fa fa-search" type="submit"></button>
+                <input class="value header-search-form" type="text" name="query" placeholder="Search" autocapitalize="none" autocomplete="off" autocorrect="off" maxlength="128" />
+                <a href="#" class="clear hidden"></a>
+                <div class="autocomplete js-autocomplete"></div>
+            </div>
+            
+                <button class="header-search-cancel" data-action="exit-search">Cancel</button>
+            
+        </form>
+
+        <div class="actions">
+            
+
+            
+                <div class="anonymous">
+                    <a href="/login" class="button btn-medium login" data-action="open-login">Login</a>
+                    or
+                    <a href="/signup" class="button btn-medium btn-secondary signup" data-action="open-signup">Sign Up</a>
+                    <a href="/signup?next=/upload" class="button btn-medium btn-primary signup-upload" data-action="open-signup-upload">
+                        <i class="icon fa fa-arrow-up"></i>
+                        Upload
+                    </a>
+                </div>
+            
+        </div>
+    </div>
+</header>
+
+
+
+
+
+
+
+
+
+<header id="responsive-header" class="responsive-top">
+
+    <a class="togglenavigation" data-action="toggle-navigation">
+        <i class="fa fa-bars"></i>
+    </a>
+
+
+    
+<div class="logo">
+    <a href="/">
+        
+
+    
+
+    
+        
+    
+
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+         x="0" y="0" width="96" height="20"
+         viewBox="0 0 121 25"
+         enable-background="new 0 0 121 25">
+
+        
+            <g id="logo-text">
+                <path fill="#555555"
+                    d="M36.471,7.719c-1.526,0-2.289,0.504-2.289,1.512c0,0.448,0.189,0.791,0.567,1.029
+                       c0.378,0.238,1.263,0.582,2.656,1.029c1.393,0.448,2.37,0.956,2.93,1.522c0.56,0.567,0.84,1.438,0.84,2.615
+                       c0,1.498-0.455,2.632-1.365,3.401c-0.911,0.771-2.1,1.155-3.57,1.155c-1.092,0-2.429-0.168-4.011-0.504l-0.756-0.147l0.294-2.247
+                       c1.876,0.253,3.311,0.379,4.305,0.379c1.484,0,2.226-0.616,2.226-1.849c0-0.447-0.171-0.798-0.515-1.05s-1.025-0.525-2.047-0.819
+                       c-1.624-0.462-2.769-1.011-3.434-1.648s-0.998-1.522-0.998-2.657c0-1.428,0.434-2.492,1.302-3.192c0.868-0.7,2.058-1.05,3.57-1.05
+                       c1.036,0,2.352,0.14,3.948,0.42l0.756,0.147L40.65,8.056C38.676,7.832,37.283,7.719,36.471,7.719z"
+                />
+                <path fill="#555555"
+                    d="M46.068,19.731h-2.814v-14.7h2.814v8.358l1.071-0.189l2.079-3.969h3.15l-2.73,4.977l2.877,5.523h-3.171
+                       l-2.121-4.095l-1.155,0.188V19.731z"
+                />
+                <path fill="#555555"
+                    d="M56.705,17.075c0.329,0.287,0.801,0.431,1.417,0.431c1.302,0,2.464-0.042,3.486-0.126l0.589-0.063
+                       l0.041,2.079c-1.61,0.392-3.066,0.588-4.368,0.588c-1.582,0-2.73-0.42-3.444-1.26c-0.714-0.84-1.071-2.205-1.071-4.095
+                       c0-3.766,1.547-5.649,4.641-5.649c3.052,0,4.578,1.582,4.578,4.746l-0.209,1.953H56.19C56.204,16.322,56.375,16.788,56.705,17.075z
+                       M59.802,13.536c0-0.84-0.133-1.424-0.399-1.753c-0.266-0.329-0.732-0.493-1.396-0.493c-0.666,0-1.134,0.171-1.407,0.514
+                       c-0.273,0.343-0.417,0.921-0.431,1.732H59.802z"
+                />
+                <path fill="#555555"
+                    d="M70.407,11.625h-2.583v4.305c0,0.42,0.011,0.718,0.031,0.893c0.021,0.175,0.098,0.325,0.231,0.451
+                       c0.133,0.126,0.339,0.189,0.619,0.189l1.596-0.042l0.126,2.246c-0.938,0.211-1.651,0.315-2.142,0.315
+                       c-1.26,0-2.121-0.283-2.583-0.851c-0.462-0.566-0.693-1.613-0.693-3.14v-4.368h-1.238V9.231h1.238V6.312h2.814v2.919h2.583V11.625z"
+                />
+                <path fill="#555555"
+                    d="M76.161,8.979c0.729,0,1.659,0.112,2.794,0.336l0.566,0.126l-0.084,2.226
+                       c-1.106-0.112-1.925-0.168-2.457-0.168c-0.966,0-1.606,0.207-1.921,0.62c-0.315,0.413-0.473,1.193-0.473,2.341
+                       c0,1.148,0.157,1.937,0.473,2.363c0.314,0.427,0.962,0.641,1.942,0.641l2.436-0.168l0.084,2.246
+                       c-1.498,0.295-2.639,0.441-3.423,0.441c-1.554,0-2.671-0.438-3.35-1.312s-1.019-2.278-1.019-4.211c0-1.932,0.35-3.328,1.05-4.189
+                       S74.607,8.979,76.161,8.979z"
+                />
+                <path fill="#555555"
+                    d="M84.414,19.731H81.6v-14.7h2.814v4.704c0.966-0.504,1.834-0.756,2.604-0.756c1.4,0,2.366,0.413,2.898,1.239
+                       c0.531,0.826,0.798,2.1,0.798,3.822v5.691h-2.814v-5.628c0-0.882-0.104-1.536-0.314-1.963s-0.63-0.641-1.26-0.641
+                       c-0.546,0-1.093,0.084-1.639,0.252l-0.272,0.084V19.731z"
+                />
+                <path fill="#555555"
+                    d="M96.531,11.625v8.106h-2.814v-8.106h-1.134V9.231h1.134V8.77c0-1.512,0.224-2.555,0.672-3.129
+                       s1.246-0.861,2.395-0.861c0.504,0,1.155,0.07,1.953,0.21l0.44,0.063l-0.042,2.289c-0.616-0.028-1.134-0.042-1.554-0.042
+                       s-0.7,0.112-0.84,0.336c-0.141,0.224-0.21,0.609-0.21,1.155v0.441h2.541v2.394H96.531z"
+                />
+                <path fill="#555555"
+                    d="M108.753,12.507v4.368c0.028,0.337,0.084,0.571,0.168,0.704s0.259,0.228,0.525,0.283l-0.084,2.121
+                       c-0.714,0-1.285-0.049-1.712-0.146c-0.427-0.099-0.857-0.295-1.291-0.589c-1.008,0.49-2.037,0.735-3.087,0.735
+                       c-2.171,0-3.255-1.147-3.255-3.444c0-1.119,0.301-1.914,0.902-2.383c0.603-0.469,1.526-0.746,2.772-0.83l2.247-0.168v-0.651
+                       c0-0.434-0.099-0.731-0.294-0.893c-0.196-0.161-0.512-0.241-0.945-0.241l-3.948,0.168l-0.084-1.953
+                       c1.498-0.406,2.923-0.609,4.273-0.609c1.352,0,2.324,0.28,2.919,0.84C108.456,10.379,108.753,11.276,108.753,12.507z
+                       M104.028,15.279c-0.784,0.07-1.176,0.49-1.176,1.26c0,0.771,0.343,1.155,1.028,1.155c0.532,0,1.113-0.084,1.743-0.252l0.315-0.084
+                       v-2.247L104.028,15.279z"
+                />
+                <path fill="#555555"
+                    d="M116.522,8.979c1.47,0,2.545,0.402,3.224,1.208s1.019,2.244,1.019,4.316c0,2.071-0.392,3.503-1.176,4.294
+                       s-2.136,1.187-4.053,1.187c-0.603,0-1.701-0.07-3.298-0.21l-0.798-0.084V5.031h2.814v4.515
+                       C115.15,9.168,115.906,8.979,116.522,8.979z M115.536,17.464c0.938,0,1.567-0.228,1.89-0.683s0.482-1.271,0.482-2.447
+                       c0-1.89-0.588-2.834-1.764-2.834c-0.56,0-1.092,0.07-1.596,0.21l-0.294,0.063v5.607C114.898,17.436,115.325,17.464,115.536,17.464z"
+                />
+            </g>
+        
+
+        <g>
+            <path fill="#FFFFFF"
+                  d="M12.5,0.833C6.056,0.833,0.834,6.057,0.834,12.5S6.056,24.167,12.5,24.167S24.167,18.943,24.167,12.5
+                     S18.944,0.833,12.5,0.833z" />
+        </g>
+
+        <g id="logo-circle">
+            <path fill="#1CAAD9"
+                d="M12.5-0.029C5.596-0.029,0,5.568,0,12.472c0,6.904,5.596,12.501,12.5,12.501s12.5-5.597,12.5-12.501
+                   C25.001,5.568,19.405-0.029,12.5-0.029z M11.414,19.911L6.025,16.8v-6.276l5.389,2.911V19.911z M12.374,11.958l-6.376-3.38
+                   l6.376-3.682l6.377,3.682L12.374,11.958z M18.755,16.812l-5.369,3.1v-6.452l5.369-2.901V16.812z"
+            />
+        </g>
+
+    </svg>
+
+
+    </a>
+</div>
+
+
+
+    <a class="opensearch" data-action="open-search">
+        <div class="search-light-icon"></div>
+    </a>
+
+    
+
+    <form class="search" action="/models" method="get" data-action="search">
+        <div class="inner">
+            <input class="search-field" type="search" name="query" placeholder="Search" />
+            <a href="#" class="clear hidden"></a>
+            <button type="button" class="closesearch" data-action="close-search">
+                Cancel
+            </button>
+        </div>
+    </form>
+
+    <!-- <div class="actions">
+        <div class="header-notifications" data-action="display-notifications">
+        </div>
+    </div> -->
+
+</header>
+    
+
+
+
+<div class="responsive-navigation">
+    <div class="inner">
+
+        
+        <div class="responsive-navigation-auth">
+            <a href="/login" class="button btn-medium btn-primary login">
+                Login
+            </a>
+            <a href="/signup" class="signup">
+                No account? Sign up
+            </a>
+        </div>
+        
+
+        <ul class="section navigation">
+            
+            <li>
+                <a class="link title" href="/">Home</a>
+            </li>
+            
+            <li>
+                <a class="link title" href="/models/popular">Explore</a>
+                <ul class="section">
+                    <li><a class="link" href="/models/popular">Popular</a></li>
+                    <li><a class="link" href="/models/staffpicks">Staff picks</a></li>
+                    <li><a class="link" href="/models?date=week&amp;features=animated&amp;sort_by=-likeCount">Animations</a></li>
+                    <li><a class="link" href="/virtual-reality">Virtual Reality</a></li>
+                    <li><a class="link" href="/collections/popular">Collections</a></li>
+                </ul>
+            </li>
+            <li>
+                <a class="link title" href="/members">Community</a>
+                <ul class="section">
+                    <li><a class="link" href="/members">All users</a></li>
+                    <li><a class="link" href="/members/pros">Pros</a></li>
+                    <li><a class="link" href="https://forum.sketchfab.com?utm_source=website&amp;utm_campaign=responsive_navigation">Forum</a></li>
+                    <li><a class="link" href="https://help.sketchfab.com/hc/en-us?utm_source=website&amp;utm_campaign=responsive_navigation">Help Center</a></li>
+                </ul>
+            </li>
+            <li>
+                <a class="link title" href="https://blog.sketchfab.com?utm_source=website&amp;utm_campaign=responsive_navigation" target="_blank">Blog</a>
+                <ul class="section">
+                    <li><a class="link" href="https://blog.sketchfab.com/category/new-on-sketchfab/?utm_source=website&amp;utm_campaign=responsive_navigation">New on Sketchfab</a></li>
+                    <li><a class="link" href="https://blog.sketchfab.com/category/community-story/?utm_source=website&amp;utm_campaign=responsive_navigation">Community stories</a></li>
+                    <li><a class="link" href="https://blog.sketchfab.com/category/contest/?utm_source=website&amp;utm_campaign=responsive_navigation">Contests</a></li>
+                    <li><a class="link" href="https://blog.sketchfab.com/category/event/?utm_source=website&amp;utm_campaign=responsive_navigation">Events</a></li>
+                    <li><a class="link" href="https://blog.sketchfab.com/category/tutorial/?utm_source=website&amp;utm_campaign=responsive_navigation">Tutorials</a></li>
+                    <li><a class="link" href="https://blog.sketchfab.com/category/inside-sketchfab/?utm_source=website&amp;utm_campaign=responsive_navigation">Inside Sketchfab</a></li>
+                </ul>
+            </li>
+            
+        </ul>
+
+    </div>
+</div>
+
+
+<div class="responsive-navigation-bind-out"></div>
+
+    <div class="content "  itemprop="mainEntity" itemscope itemtype="http://schema.org/MediaObject" >
+
+        
+
+        
+            
+
+    
+
+    <section class="two-columns container view sidebar-right model-container  ">
+
+        
+    
+
+
+        <div class="header">
+    
+
+</div>
+
+        <div class="columns-wrapper">
+
+            <div class="left">
+                
+    <div class="main">
+        <div class="viewer-wrapper">
+            
+                <main class="viewer-container">
+                    <div class="viewer-viewport">
+                        
+                        
+
+    
+        
+
+    <div class="viewer has-model  started">
+
+        
+
+    <div class="titlebar">
+
+        <div class="summary">
+            
+        </div>
+
+        <div class="actions">
+
+            
+
+            
+
+        </div>
+
+    </div>
+
+
+
+        <div class="landing" data-action="start">
+
+            <div class="preview">
+                <div class="image-container" style="width:100%; height:100%;  background-image: url(https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/thumbnails/16eb4397e634452993309b2b536f73e6/1024x576.jpeg);" >
+            <meta itemprop="image" content="https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/thumbnails/16eb4397e634452993309b2b536f73e6/1024x576.jpeg" />
+            <div style="height:100%;"></div>
+            </div>
+            
+            </div>
+
+            <div class="start-button">
+                <button class="play">
+                    <i class="fa fa-play"></i>
+                    <span class="label">3D</span>
+                </button>
+            </div>
+
+            
+
+        </div>
+
+        <div class="overlays">
+            
+            <div class="overlay help hidden">
+                <a href="#" class="close custom-icons icon-ion-close-round-icon"></a>
+                <div class="inner">
+                    <ul class="tabs">
+                        <li class="active"><a href="#" data-target="basic">Navigation basics</a></li>
+                        <li><a href="#" data-target="all">All controls</a></li>
+                    </ul>
+                    <div class="tabs-container">
+                        <div class="tab active" data-tab="basic">
+                            <div class="tip">
+                                <div>
+                                    <i class="fa fa-refresh"></i>
+                                </div>
+                                <div>
+                                    <b>Orbit around</b>
+                                    <div>
+                                        Left click + drag or<br>
+                                        One finger drag (touch)
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tip">
+                                <div>
+                                    <i class="fa fa-search-plus"></i>
+                                </div>
+                                <div>
+                                    <b>Zoom</b>
+                                    <div>
+                                        Double click on model<br>
+                                        or scroll anywhere or<br>
+                                        Pinch (touch)
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tip">
+                                <div>
+                                    <i class="fa fa-arrows"></i>
+                                </div>
+                                <div>
+                                    <b>Pan</b>
+                                    <div>
+                                        Right click + drag or<br />
+                                        Two fingers drag (touch)
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab" data-tab="all">
+                            <div>
+                                <div class="section">
+                                    <h2>Orbit navigation</h2>
+                                    <b>Move camera:</b> 1 finger drag or Left Mouse Button<br>
+                                    <b>Pan:</b> 2-finger drag or Right Mouse Button or <kbd>SHIFT</kbd>+ Left Mouse Button<br>
+                                    <b>Zoom on object:</b> Double-tap or Double-click on object<br>
+                                    <b>Zoom out:</b> Double-tap or Double-click on background<br>
+                                    <b>Zoom:</b> Pinch in/out or Mousewheel or <kbd>CTRL</kbd> + Left Mouse Button<br>
+                                </div>
+                                <div class="section">
+                                    <h2>First-person navigation</h2>
+                                    <b>Move:</b> <kbd>↑</kbd>,<kbd>←</kbd>,<kbd>↓</kbd>,<kbd>→</kbd> (or <kbd>W</kbd>,<kbd>A</kbd>,<kbd>S</kbd>,<kbd>D</kbd>)<br>
+                                    <b>Look around:</b> 1-finger drag or Left Mouse Button<br>
+                                    <b>Adjust speed:</b> Mousewheel<br>
+                                </div>
+                                <div class="section rendering-shortcuts"></div>
+                                <div class="section">
+                                    <h2>Lighting</h2>
+                                    <b>Rotate lighting:</b> 3-finger drag or <kbd>ALT</kbd> + Left Mouse Button<br>
+                                    <b>Rotate env. only:</b> <kbd>ALT</kbd> + <kbd>SHIFT</kbd> + Left Mouse Button<br>
+                                </div>
+                                <div class="section annotation-shortcuts"></div>
+                                <div class="section animation-shortcuts"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="action">
+                        <button class="button" data-action="reset-camera">Reset camera view</button>
+                    </div>
+
+                </div>
+            </div>
+            <div class="overlay share hidden">
+                <a href="#" class="close custom-icons icon-ion-close-round-icon"></a>
+                <div class="inner">
+                    <div class="share-link">
+                        <div class="text-field">
+                            <label>Link</label>
+                            <input type="text" class="text" value="" readonly>
+                            <button data-clipboard-target=".text-field .text">copy</button>
+                        </div>
+                    </div>
+                    <div class="share-social">
+                        <a data-action="share-on-facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <a data-action="share-on-twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a data-action="share-on-reddit" target="_blank"><i class="fa fa-reddit"></i></a>
+                        <a data-action="share-on-tumblr" target="_blank"><i class="fa fa-tumblr"></i></a>
+                        <a data-action="share-on-google-plus" target="_blank"><i class="fa fa-google-plus"></i></a>
+                        <a data-action="share-on-linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
+                        <a data-action="share-on-pinterest" target="_blank"><i class="fa fa-pinterest"></i></a>
+                        <a class="share-mail" target="_blank"><i class="fa fa-envelope"></i></a>
+                    </div>
+                    <div class="share-embed">
+                        <a class="button" href="" target="_blank">
+                            <i class="fa fa-code"></i> Embed
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="overlay hotspots-overlay hidden">
+                <a href="#" class="close custom-icons icon-ion-close-round-icon"></a>
+                <div class="inner">
+                    <h4 class="hotspot-title"></h4>
+                    <div class="hotspot-content js-scrollable markdown-rendered-content"></div>
+                </div>
+            </div>
+            <div class="overlay helper-vr-overlay hidden">
+                <i class="custom-icons icon-ion-close-round-icon close"></i>
+                <div class="inner custom-scrollbar">
+                     <div class="header-helper">
+                        To view this model in virtual reality:
+                    </div>
+                    <div class="content-helper">
+                        <div class="row-helper">
+                            <div class="content-row">
+                                <div class="image"><i class="fa fa-mobile"></i></div>
+                                <div class="text">
+                                    <div class="title">on mobile phone</div>
+                                    <div>with Cardboard or similar</div>
+                                </div>
+                            </div>
+                            <ul class="info">
+                                <li>On your mobile, open this link: <a class="url" target="_blank" href="#"></a></li>
+                                <li>Press the VR icon</li>
+                                <li>Insert your mobile in a Cardboard headset</li>
+                            </ul>
+                        </div>
+                        <div class="row-helper">
+                            <div class="content-row">
+                                <div class="image"><i class="fa fa-desktop"></i></div>
+                                <div class="text">
+                                    <div class="title">on desktop PC <span class="flag --info">BETA</span></div>
+                                    <div>with a VR headset</div>
+                                </div>
+                            </div>
+                            <ul class="info">
+                                <li><a target="_blank" href="https://webvr.info/">Get a WebVR-compatible browser</a></li>
+                                <li>Enable WebVR</li>
+                                <li>Open this model</li>
+                                <li>Click on the VR icon</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="footer-helper">
+                        <a target="_blank" href="https://help.sketchfab.com/hc/en-us/articles/204777439-Mobile-VR-and-Desktop-WebVR?utm_source=website&amp;utm_campaign=vr_hints">
+                        More info on Virtual reality.
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="webgl">
+
+            <canvas class="canvas" data-modelUid="8a781f5025ba45b98ed6feefb909eec5" data-action="create-hotspot">
+            </canvas>
+
+            <div class="loading-container">
+                <div class="secondary-progress">
+                    <div class="secondary-progress-percentage"></div>
+                    <div class="secondary-progress-display"></div>
+                </div>
+                <div class="main-progress">
+                    <img src="https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/thumbnails/16eb4397e634452993309b2b536f73e6/64x36.jpeg" class="loading-thumbnail" />
+                    <div class="main-progress-wrapper">
+                        <div class="main-progress-percentage loading-percentage">0%</div>
+                        <p>Loading 3D model</p>
+                        <progress class="main-progress-display" value="0" max="1"></progress>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hotspots"></div>
+
+            <div class="gui">
+
+                <div class="animation-not-supported hidden">
+                    <a href="#" class="close"></a>
+                    <p>Model is too heavy for your device and can not be rendered properly</p>
+                </div>
+
+                
+                    <div class="hotspot-controls-responsive">
+                        <div data-title="Previous Annotation" data-action="prev-annotation">
+                            <div class="icon fa fa-caret-left"></div>
+                        </div>
+                        <div data-title="Next Annotation" data-action="next-annotation">
+                            <div class="icon fa fa-caret-right"></div>
+                        </div>
+                    </div>
+                
+
+                
+                    <div class="model-inspector">
+                        <div class="model-inspector__menu">
+                            <div class="model-inspector__minimize"><i class="fa fa-caret-down" aria-hidden="true"></i>Model Inspector</div>
+                            <div class="model-inspector__content">
+                                <div class="model-inspector__modes custom-scrollbar js-scrollable">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="model-inspector__2D-options">
+                            <div class="model-inspector__UV-options"></div>
+                            <div class="model-inspector__material-options"></div>
+                        </div>
+                        <div class="model-inspector__empty-2d-view">
+                        </div>
+                    </div>
+                
+
+
+                <div class="controls">
+
+                    
+
+                    
+
+                        
+                            <div class="animation-controls widget ">
+                                <div class="timeline">
+                                    <div class="timeline-wrapper">
+                                        <div class="track">
+                                            <div class="bar">
+                                            </div>
+                                            <div class="knob">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a href="#" class="control play fa"></a>
+                                <a href="#" class="control next fa"></a>
+                                <div class="animation-timer control progress help" data-unit="time">00:00.00</div>
+                                <div class="animation-list control has-menu">
+                                    <p class="animation-name"></p>
+                                    <div class="control-menu list">
+                                        <div class="animation__options">
+                                            <div class="toggle-button">
+                                                <span class="toggle-button__option tooltip" data-tooltip="Repeat one">
+                                                    <input type="radio" name="animation-cycle" data-value="one" id="animation-cycle-one">
+                                                    <label for="animation-cycle-one"><i class="custom-icons icon-cycle-repeat-one"></i></label>
+                                                </span>
+                                                <span class="toggle-button__option tooltip" data-tooltip="Repeat all">
+                                                    <input type="radio" name="animation-cycle" data-value="all" id="animation-cycle-all">
+                                                    <label for="animation-cycle-all"><i class="custom-icons icon-cycle-repeat-all"></i></label>
+                                                </span>
+                                                <span class="toggle-button__option tooltip" data-tooltip="No repeat">
+                                                    <input type="radio" name="animation-cycle" data-value="none" id="animation-cycle-none">
+                                                    <label for="animation-cycle-none"><i class="custom-icons icon-cycle-no-repeat"></i></label>
+                                                </span>
+                                            </div>
+                                            <div class="toggle-button">
+                                                <span class="toggle-button__option tooltip" data-tooltip="Speed x0.1">
+                                                    <input type="radio" name="animation-speed" data-value="0.1" id="animation-speed-point-one">
+                                                    <label for="animation-speed-point-one">x0.1</label>
+                                                </span>
+                                                <span class="toggle-button__option tooltip" data-tooltip="Speed x0.5">
+                                                    <input type="radio" name="animation-speed" data-value="0.5" id="animation-speed-point-five">
+                                                    <label for="animation-speed-point-five">x0.5</label>
+                                                </span>
+                                                <span class="toggle-button__option tooltip" data-tooltip="Speed x1">
+                                                    <input type="radio" name="animation-speed" data-value="1" id="animation-speed-one">
+                                                    <label for="animation-speed-one">x1</label>
+                                                </span>
+                                                <span class="toggle-button__option tooltip" data-tooltip="Speed x2">
+                                                    <input type="radio" name="animation-speed" data-value="2" id="animation-speed-two">
+                                                    <label for="animation-speed-two">x2</label>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <ul class="js-scrollable"></ul>
+                                    </div>
+                                </div>
+                            </div>
+                        
+
+                        
+                            <div class="hotspot-controls widget ">
+
+                                <div data-title="Previous Annotation" data-action="prev-annotation">
+                                    <div class="icon fa fa-caret-left"></div>
+                                </div>
+
+                                <div class="hotspot-name default has-menu" data-action="toggle-annotation-list">
+                                    Select an annotation
+                                </div>
+
+                                <div data-title="Next Annotation" data-action="next-annotation">
+                                    <div class="icon fa fa-caret-right"></div>
+                                </div>
+
+                                <div class="list hotspots-list"></div>
+
+                            </div>
+                        
+
+                        <div class="spacer"></div>
+
+                        
+                            <div class="general-controls widget ">
+
+                                
+                                    <a class="control tooltip help" data-tooltip="Help">
+                                        <i class="fa fa-question"></i>
+                                    </a>
+                                
+                                
+                                    <a class="control volume" title="Volume (M)" draggable="false">
+                                        <i class="fa fa-volume-up"></i>
+                                        <div class="volume-menu">
+                                        </div>
+                                    </a>
+                                
+                                
+                                    <a class="control tooltip settings has-menu" data-tooltip="Settings">
+                                        <i class="fa fa-gear"></i>
+                                        <div class="control-menu settings-menu">
+                                            <div class="control-menu-wrapper">
+                                                <div class="control-menu-list"></div>
+                                                <div class="control-menu-pane"></div>
+                                            </div>
+                                        </div>
+                                        <span class="control-badge"></span>
+                                    </a>
+                                
+                                
+                                    <a class="control tooltip inspector" data-tooltip="Model Inspector (I)" data-action="inspector">
+                                        <i class="custom-icons icon-inspector"></i>
+                                    </a>
+                                
+                                
+                                    <a class="control tooltip vr " data-tooltip="View in VR">
+                                        <i class="custom-icons icon-vr-icon"></i>
+                                    </a>
+                                
+                                
+                                    <a class="control tooltip theatre" data-tooltip="Theater Mode">
+                                        <i class="custom-icons icon-theater-icon"></i>
+                                    </a>
+                                
+                                
+                                    <a class="control tooltip tooltip-right-bound fullscreen" data-tooltip="Fullscreen">
+                                        <i class="custom-icons icon-fullscreen-icon"></i>
+                                    </a>
+                                
+                            </div>
+                        
+                    
+                </div>
+
+                
+
+                <div class="viewer-hint widget disabled">
+                    <div class="viewer-movehint">
+                        <i class="icon"></i>
+                        <span class="label">
+                            click &amp; hold<br>
+                            to rotate
+                        </span>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="osd widget">
+            <div class="osd-content">
+            </div>
+        </div>
+
+        <div class="fallback" style="display: none">
+
+            <div class="fallback-viewport">
+                <img src="" alt="" class="fallback-sprite">
+            </div>
+
+            <div class="fallback-warning">
+                <div class="inner">
+                    For compatibility reasons, 3D is not available (<a href="https://help.sketchfab.com/hc/en-us/articles/203059088-Compatibility?utm_source=website&amp;utm_campaign=error_fallback" target="_blank">see requirements</a>).<br>
+                    You are seeing a 360&deg; image instead.
+                </div>
+            </div>
+
+            <div class="fallback-error fallback-error-loading">
+                <div class="inner">
+                    <p>Connection error. Please try again.</p>
+                </div>
+            </div>
+
+            <div class="fallback-error fallback-error-nofallback">
+                <div class="inner">
+                    <p>Sorry, the model can't be displayed.</p>
+                    <p>Please check out <a href="https://help.sketchfab.com/hc/en-us/articles/203059088-Compatibility?utm_source=website&utm_campaign=error_fallback" target="_blank">our FAQ</a> to learn how to fix this issue.</p>
+                </div>
+            </div>
+
+            <div class="progress-bar">
+                <div class="progress-bar-percentage"></div>
+                <div class="progress-bar-display"></div>
+            </div>
+
+            <div class="progress-circle">
+                <div class="progress-circle-percentage loading-percentage"></div>
+                <svg class="progress-circle-display" version="1.1">
+                    <path class="progress-circle-path" fill="none" stroke="#1caad9" stroke-width="6" />
+                </svg>
+            </div>
+
+            
+                <div class="controls">
+                    <div class="control control-fullscreen fullscreen tooltip tooltip-left" data-tooltip="Fullscreen" data-action="fullscreen">
+                        <div class="icon custom-icons icon-fullscreen-icon"></div>
+                    </div>
+                </div>
+            
+
+        </div>
+
+    </div>
+
+
+    
+
+
+                    </div>
+                </main>
+
+            
+        </div>
+
+        <div class="content-wrapper">
+            <div>
+                <div class="viewer-additional">
+                    <h1 class="model-name" itemprop="name">
+                        <!--
+
+    
+
+    --><span class="model-name">
+
+        
+            <i class="model-name__icon custom-icons icon-private --private"></i>
+        
+
+        
+            <span class="model-name__label">Bolterdalen 1936</span>
+        
+
+        
+    
+    
+
+    
+
+    
+
+
+    </span><!--
+
+-->
+                    </h1>
+
+                    <div class="owner-wrapper">
+                        <div class="owner" id="data-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+                            <a href="https://sketchfab.com/ErikSH" itemprop="url" class="avatar">
+                                <div class="image-container" style="width:48px; ;  background-image: url(https://media.sketchfab.com/avatars/70f72c748c8e47e692c608cb81dd7bb9/1e3b6a211c0743328ca04b267e81143b.jpeg);" >
+            <meta itemprop="image" content="https://media.sketchfab.com/avatars/70f72c748c8e47e692c608cb81dd7bb9/1e3b6a211c0743328ca04b267e81143b.jpeg" />
+            <div style="padding-top:100.0%;"></div>
+            </div>
+            
+                            </a>
+                            <div class="whoami">
+                                <div class="display-name"><a class="user-name" href="https://sketchfab.com/ErikSH">
+
+        <div
+            class="wrapper"
+            
+            data-user="69b6ecea612c4079a1efac635116b242">
+
+            <data itemprop="url" value="https://sketchfab.com/ErikSH"></data>
+            
+
+            <div class="text">
+                
+                <div
+                    class="username-wrapper"
+                    itemprop="name"
+                    title="Erik Schytt Holmlund">
+                    Erik Schytt Holmlund
+                </div>
+            </div>
+            
+                
+                    
+                        <span class="flag --pro">Pro</span>
+                    
+                
+            
+
+        </div>
+
+    </a></div>
+                                <div class="actions owner-actions-buttons">
+                                    
+                                        
+
+    <span class="toggle-button follow-user-button btn-loading" data-action="follow" data-user="69b6ecea612c4079a1efac635116b242">
+        <a class="button btn-primary toggle btn-disabled">
+            <i class="icon fa fa-plus"></i>
+            Follow
+        </a>
+        <a class="button btn-important untoggle">
+            <span class="toggled">
+                Following
+            </span>
+            <span class="untoggled">
+                Unfollow
+            </span>
+        </a>
+    </span>
+
+
+                                    
+                                </div>
+                            </div>
+                        </div>
+
+                        
+                            <div class="stats">
+                                
+                                    
+
+                                    <div class="views help">
+                                        <div class="icon custom-icons icon-eye-icon"></div>
+                                        <span class="count">0</span>
+                                        <div class="tooltip tooltip-down">
+                                            <span class="count">0</span> Views
+                                        </div>
+                                    </div>
+
+                                    
+
+    <div class="help like-button star-like-button btn-loading popover-container help likes" data-action="like-model">
+        
+            <span class="count">
+    0
+</span>
+        
+        <span class="tooltip liked-content tooltip-down">Like</span>
+        <span class="tooltip unliked-content tooltip-down">Unlike</span>
+        
+            
+
+    <div class="popover share-popover hidden">
+        <p>Thanks! Also share?</p>
+
+        <a data-action="share-on-facebook" class="share-popover-icon icons-facebook"></a>
+        <a data-action="share-on-twitter" class="share-popover-icon icons-twitter"></a>
+        <a data-action="share-on-google-plus" class="share-popover-icon icons-google"></a>
+        <a data-action="share-on-pinterest" class="share-popover-icon icons-pinterest"></a>
+    </div>
+
+
+        
+    </div>
+
+
+                                
+                            </div>
+                        
+                    </div>
+
+                    
+                        <div class="actions">
+                            
+
+                            
+                            
+
+                            <a class="button btn-medium" data-action="open-embed-popup" title="Embed">
+                                <i class="icon fa fa-code"></i>
+                                <span class="button-label">Embed</span>
+                            </a>
+
+                            <a class="button btn-medium" data-action="open-share-popup" title="Share">
+                                <i class="icon fa fa-share"></i>
+                                <span class="button-label">Share</span>
+                            </a>
+
+                            
+                                
+    
+
+    
+        
+    
+
+    <a href="https://help.sketchfab.com/hc/en-us/requests/new?type=report_abuse&amp;utm_campaign=report_abuse&amp;utm_source=website&amp;model=8a781f5025ba45b98ed6feefb909eec5&amp;report_string=Bolterdalen%201936%20by%20ErikSH" class="report-link button btn-medium report" target="_blank">
+        <i class="icon fa fa-flag"></i><span class="button-label">Report</span>
+    </a>
+
+                            
+                        </div>
+                    
+                </div>
+
+                
+                    <div class="model-informations">
+                        <div class="model-informations-tabs">
+                            <div class="model-informations-tab --active" data-action="select-description">
+                                Description
+                            </div>
+                            <div class="model-informations-tab" data-action="select-informations">
+                                Model information
+                            </div>
+                        </div>
+                        <div class="model-informations-content">
+                            <div class="model-informations-description">
+                                
+                                    <section class="description markdown-rendered-content --empty" itemprop="description">
+                                        No description provided.
+                                    </section>
+                                
+
+                                <div class="model-informations-list">
+                                    
+                                        <section class="model-meta-row publication">
+                                            <i class="model-meta-icon icon fa fa-clock-o"></i>
+                                            <span class="model-meta-info help">
+                                                Published <time itemprop="datePublished" datetime="2017-10-18T07:57:11.361403">3 weeks ago</time>
+                                                <div class="tooltip tooltip-down">
+                                                    October 18th 2017
+                                                </div>
+                                            </span>
+                                        </section>
+                                    
+
+                                    
+
+                                    
+
+                                    
+                                        <section class="model-meta-row tags">
+                                            <i class="model-meta-icon icon custom-icons icon-tags-icon"></i>
+                                            <ul class="model-meta-info item-list list-static" itemprop="keywords"><li>
+                                                        <a class="item tag-item" href="/tags/agisoft">agisoft</a>
+                                                    </li><li>
+                                                        <a class="item tag-item" href="/tags/photoscan">photoscan</a>
+                                                    </li></ul>
+                                        </section>
+                                    
+
+                                    
+                                </div>
+                            </div>
+                            <div class="model-informations-model  --inactive">
+                                <div>
+                                    
+
+                                    
+                                        <section class="information-row">
+                                            <p class="model-meta-title">Native format</p>
+                                            <p class="model-meta-info">
+                                                ply
+                                            </p>
+                                        </section>
+                                    
+
+                                    
+                                        <section class="information-row">
+                                            <p class="model-meta-title">Size</p>
+                                            <p class="model-meta-info">
+                                                17.9MB
+                                            </p>
+                                        </section>
+                                    
+                                </div>
+                                <div>
+                                    
+                                        <section class="information-row">
+                                            <p class="model-meta-title">Polygons</p>
+                                            <p class="model-meta-info">250.0k</p>
+                                        </section>
+
+                                        <section class="information-row">
+                                            <p class="model-meta-title">Vertices</p>
+                                            <p class="model-meta-info">127.8k</p>
+                                        </section>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="comments-wrapper">
+                        <section class="comments" id="comments">
+                            
+                                <!-- hackish tag to jump a bit higher than comments section to compensate the header height -->
+                                <p class="new-comment-page-start"></p>
+                                
+
+
+
+<div class="comment-pagination">
+    <div style="visibility: hidden">
+        
+
+    <div class="total">
+        
+            0 comments
+        
+    </div>
+
+
+    </div>
+</div>
+
+
+
+    
+
+    
+
+        <div class="new">
+            <div class="comment">
+                <div class="avatar">
+                    <div class="image-container" style="width: <%= options.avatarSize %>px; background-image: url(https://static.sketchfab.com/static/builds/web/dist/48-4abf0362e322a8b48eb4a2fc3d164356.png);"><div style="padding-top: 100%;"></div></div>
+                </div>
+                <div class="inner login-to-comment">
+                    <button class="button btn-medium btn-primary" data-action="open-login">Log in to comment</button>
+                </div>
+            </div>
+        </div>
+
+    
+
+
+
+<div class="comment-list"></div>
+
+<div class="comment-paginator">
+    <div style="visibility: hidden">
+        
+
+    
+    
+
+    <ul class="paginator
+         monopage">
+
+        
+
+        
+            
+        
+            
+        
+            
+                <li class="page
+                     current">
+                    <a class="link" data-action="goto-page" data-page="0">
+                        1
+                    </a>
+                </li>
+            
+        
+            
+        
+            
+        
+
+        
+
+    </ul>
+
+
+    </div>
+</div>
+                            
+                        </section>
+                    </div>
+                
+            </div>
+            
+        </div>
+    </div>
+
+            </div>
+            
+            <div class="right">
+                
+    
+
+    <meta itemprop="commentCount" content="0" />
+    <meta itemprop="contentSize" content="17.9MB" />
+    <meta itemprop="discussionUrl" content="https://sketchfab.com/models/8a781f5025ba45b98ed6feefb909eec5#comments" />
+    <meta itemprop="embedUrl" content="https://sketchfab.com/models/8a781f5025ba45b98ed6feefb909eec5/embed" />
+    <meta itemprop="isBasedOnUrl" content="https://sketchfab.com/models/8a781f5025ba45b98ed6feefb909eec5/editor" />
+    <link itemprop="thumbnailUrl" href="https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/thumbnails/16eb4397e634452993309b2b536f73e6/1024x576.jpeg"></link>
+
+    <div class="navigation">
+
+        
+
+    
+
+        
+            <div class="collections">
+                <h5 class="sidebar-title">In collections</h5>
+
+                <ul class="related-collection"><li itemprop="isPartOf" itemscope itemtype="http://schema.org/CreativeWork" itemref="data-author" data-uid="8c6c9585ebb04918b310476ea2e8c425">
+
+    
+
+    <div class="collection-smallcard" data-link="https://sketchfab.com/ErikSH/collections/bolterdalen">
+
+        <meta itemprop="url" content="https://sketchfab.com/ErikSH/collections/bolterdalen" />
+        <div class="collection-smallcard__thumbnails">
+            
+
+                
+    
+    <div class="card-thumbnail ">
+        <div class="card-thumbnail__before" style="padding-top: 56.25%"></div>
+        <div class="card-thumbnail__img">
+            <div class="image-container" style="width:100%; ;"><div style="padding-top:56.25%;"></div></div>
+        </div>
+    </div>
+
+
+            
+
+                
+    
+    <div class="card-thumbnail ">
+        <div class="card-thumbnail__before" style="padding-top: 56.25%"></div>
+        <div class="card-thumbnail__img">
+            <div class="image-container" style="width:100%; ;"><div style="padding-top:56.25%;"></div></div>
+        </div>
+    </div>
+
+
+            
+
+                
+    
+    <div class="card-thumbnail ">
+        <div class="card-thumbnail__before" style="padding-top: 56.25%"></div>
+        <div class="card-thumbnail__img">
+            <div class="image-container" style="width:100%; ;"><div style="padding-top:56.25%;"></div></div>
+        </div>
+    </div>
+
+
+            
+
+                
+    
+    <div class="card-thumbnail ">
+        <div class="card-thumbnail__before" style="padding-top: 56.25%"></div>
+        <div class="card-thumbnail__img">
+            <div class="image-container" style="width:100%; ;"><div style="padding-top:56.25%;"></div></div>
+        </div>
+    </div>
+
+
+            
+        </div>
+
+        <div class="meta">
+
+            <div class="information">
+                <div class="name">
+                    <!--
+
+    --><span class="collection-name">
+        <a class="label" href="https://sketchfab.com/ErikSH/collections/bolterdalen" title="Bolterdalen">
+            <data itemprop="name">
+                Bolterdalen
+            </data>
+        </a>
+    </span><!--
+
+-->
+                </div>
+                <div class="user">
+                    <a class="user-name" href="https://sketchfab.com/ErikSH">
+
+        <div
+            class="wrapper"
+            
+                data-action="show-user-summary"
+            
+            data-user="69b6ecea612c4079a1efac635116b242">
+
+            <data itemprop="url" value="https://sketchfab.com/ErikSH"></data>
+            
+
+            <div class="text">
+                
+                <div
+                    class="username-wrapper"
+                    itemprop="name"
+                    title="Erik Schytt Holmlund">
+                    Erik Schytt Holmlund
+                </div>
+            </div>
+            
+                
+                    
+                        <span class="flag --pro">Pro</span>
+                    
+                
+            
+
+        </div>
+
+    </a>
+                </div>
+            </div>
+
+            <div class="stats">
+                <div class="card__footer__stats --models length help">
+                    <span class="count">
+                        4
+                    </span>
+                    <div class="tooltip tooltip-up">Models</div>
+                </div>
+                
+                    
+
+    <div class="help subscribe-button count-subscribe-button btn-loading popover-container card__footer__stats --subscribes"
+
+        
+            data-action="subscribe-collection"
+        >
+
+        
+            <span class="count">
+    0
+</span>
+        
+
+        
+             <span class="tooltip subscribed-content tooltip tooltip-up">Subscribe</span>
+            <span class="tooltip unsubscribed-content tooltip tooltip-up">Unsubscribe</span>
+        
+
+        
+            
+
+    <div class="popover share-popover hidden">
+        <p>Thanks! Also share?</p>
+
+        <a data-action="share-on-facebook" class="share-popover-icon icons-facebook"></a>
+        <a data-action="share-on-twitter" class="share-popover-icon icons-twitter"></a>
+        <a data-action="share-on-google-plus" class="share-popover-icon icons-google"></a>
+        <a data-action="share-on-pinterest" class="share-popover-icon icons-pinterest"></a>
+    </div>
+
+
+        
+    </div>
+
+
+                
+            </div>
+
+        </div>
+    </div>
+
+</li>
+                    
+                </ul>
+            </div>
+        
+
+        
+            <div class="related">
+                
+    <h5 class="sidebar-title">Suggested models</h5>
+    <ul class="related-algo spinner"></ul>
+
+            </div>
+        
+    
+    </div>
+
+
+            </div>
+            
+        </div>
+
+    </section>
+
+
+        
+
+        
+
+<footer class="footer">
+    <div class="container">
+
+        <nav class="navigation">
+            <ul class="primary">
+                <li><a href="/about">About</a></li>
+                <li><a href="/features">Features</a></li>
+                <li><a href="/plans">Plans</a></li>
+                <li><a href="/developers">Developers</a></li>
+                <li><a href="/exporters">Exporters</a></li>
+                <li><a href="https://blog.sketchfab.com?utm_source=website&amp;utm_campaign=footer">Blog</a></li>
+                <li><a href="/education">Education</a></li>
+                <li><a href="/mobile">Mobile</a></li>
+                <li><a href="/virtual-reality">Virtual Reality</a></li>
+                <li><a href="https://help.sketchfab.com/hc/en-us?utm_source=website&amp;utm_campaign=footer">Help Center</a></li>
+            </ul>
+
+            <ul class="secondary">
+                <li><a href="/">&copy; Sketchfab 2017</a></li>
+                <li><a href="/terms">Terms</a></li>
+                <li><a href="/privacy">Privacy</a></li>
+                <li><a href="/careers" target="_blank">Careers</a></li>
+                <li><a href="/press">Press kit</a></li>
+                <li><a href="https://labs.sketchfab.com/experiments/">Labs</a></li>
+                <li><a href="/about#contact">Contact</a></li>
+            </ul>
+        </nav>
+
+        <div class="social">
+            <ul class="links">
+                <li><a class="facebook" href="https://facebook.com/sketchfab" target="_blank"><i class="fa fa-facebook-square"></i> <span class="sr-only">Sketchfab on Facebook</span></a></li>
+                <li><a class="twitter" href="https://twitter.com/sketchfab" target="_blank"><i class="fa fa-twitter-square"></i> <span class="sr-only">Sketchfab on Twitter</span></a></li>
+                <li><a class="gplus" href="https://plus.google.com/+Sketchfab" target="_blank"><i class="fa fa-google-plus-square"></i> <span class="sr-only">Sketchfab on Google+</span></a></li>
+                <li><a class="pinterest" href="http://www.pinterest.com/sketchfab/" target="_blank"><i class="fa fa-pinterest-square"></i> <span class="sr-only">Sketchfab on Pinterest</span></a></li>
+                <li><a class="linkedin" href="https://www.linkedin.com/company/sketchfab" target="_blank"><i class="fa fa-linkedin-square"></i> <span class="sr-only">Sketchfab on Linkedin</span></a></li>
+                <li><a class="instagram" href="https://instagram.com/sketchfabulous/" target="_blank"><i class="fa fa-instagram"></i> <span class="sr-only">Sketchfab on Instagram</span></a></li>
+            </ul>
+        </div>
+
+    </div>
+</footer>
+
+    </div>
+
+    <span class="vr-link-container"></span>
+
+
+
+        
+        
+
+    <script>( function ( target ) {
+
+        var prefetchedData = target.prefetchedData = { };
+
+        
+            prefetchedData[ "/i/models/8a781f5025ba45b98ed6feefb909eec5/environments?optimized=1" ] = {"count": 1, "results": [{"textures": [{"images": [{"uid": "f6d0233da99c4130aa271bdb01dc2cba", "width": 256, "name": "thumbnail_256.jpg", "file": "https://media.sketchfab.com/environments/749a0594343e4ff9a2875cb411d0ad1a/0c34029a671d4bbb87134f6d1289be57.jpg", "height": 128}], "format": "panorama", "type": "thumbnail", "encoding": "srgb"}, {"images": [{"file": "https://media.sketchfab.com/environments/749a0594343e4ff9a2875cb411d0ad1a/19e4b729018d43d082284ec121f82913.bin.gz", "sizeCompressed": 37168, "height": 64, "width": 64, "sizeUncompressed": 98304, "samples": 512, "blur": 0.15, "uid": "8e70b0642583419e87fec249df2a8feb", "name": "background_cubemap_64_0.15_luv.bin.gz"}, {"file": "https://media.sketchfab.com/environments/749a0594343e4ff9a2875cb411d0ad1a/2c7c854aed1c47469445e0e436df4845.bin.gz", "sizeCompressed": 128681, "height": 128, "width": 128, "sizeUncompressed": 393216, "samples": 512, "blur": 0.1, "uid": "3e1d2c7b9bd74754843b948e87441080", "name": "background_cubemap_128_0.1_luv.bin.gz"}, {"file": "https://media.sketchfab.com/environments/749a0594343e4ff9a2875cb411d0ad1a/dfb6882d5de04e0f9ac1de76dcf8130a.bin.gz", "sizeCompressed": 454638, "height": 256, "width": 256, "sizeUncompressed": 1572864, "samples": 512, "blur": 0.055, "uid": "089ea4876512467fac86b622bc916b0e", "name": "background_cubemap_256_0.055_luv.bin.gz"}, {"file": "https://media.sketchfab.com/environments/749a0594343e4ff9a2875cb411d0ad1a/f660a4319d5b48878fd9158b91e2a7c7.bin.gz", "sizeCompressed": 1877917, "height": 512, "width": 512, "sizeUncompressed": 6291456, "samples": 512, "blur": 0.02, "uid": "cdcaad4b5ac94c62a4dea061bb840395", "name": "background_cubemap_512_0.02_luv.bin.gz"}, {"file": "https://media.sketchfab.com/environments/749a0594343e4ff9a2875cb411d0ad1a/12598e55f51447e0a4239f9b4515b7db.bin.gz", "sizeCompressed": 2728347, "height": 512, "width": 512, "sizeUncompressed": 6291456, "samples": 512, "blur": 0.0, "uid": "76d756341ff14aa088caa817f5c8652a", "name": "background_cubemap_512_0.0_luv.bin.gz"}], "format": "cubemap", "type": "background", "encoding": "luv"}, {"images": [{"file": "https://media.sketchfab.com/environments/749a0594343e4ff9a2875cb411d0ad1a/1836c462d87a4bf883f6a0a937b55311.bin.gz", "sizeUncompressed": 4194304, "name": "specular_panorama_ue4_1024_luv.bin.gz", "sizeCompressed": 1016940, "height": 1024, "width": 1024, "samples": 1024, "uid": "50da1747794a4072961a634a5b950e31"}, {"file": "https://media.sketchfab.com/environments/749a0594343e4ff9a2875cb411d0ad1a/1304417f28b0449187be931afe935340.bin.gz", "sizeUncompressed": 262144, "name": "specular_panorama_ue4_256_luv.bin.gz", "sizeCompressed": 69764, "height": 256, "width": 256, "samples": 1024, "uid": "133ffb9638484e618aa059ca9c34199c"}], "format": "panorama", "encoding": "luv", "type": "specular_ue4", "limitSize": 32}, {"images": [{"file": "https://media.sketchfab.com/environments/749a0594343e4ff9a2875cb411d0ad1a/af6a7f07ce6a4cdb92d03c06ca1c337b.bin.gz", "sizeUncompressed": 2097144, "name": "specular_cubemap_ue4_256_luv.bin.gz", "sizeCompressed": 920322, "height": 256, "width": 256, "samples": 1024, "uid": "72986b6d60694b859f156642a7502a29"}, {"file": "https://media.sketchfab.com/environments/749a0594343e4ff9a2875cb411d0ad1a/5095a0486f294744b4c4e3a1b794ea8c.bin.gz", "sizeUncompressed": 131064, "name": "specular_cubemap_ue4_64_luv.bin.gz", "sizeCompressed": 64721, "height": 64, "width": 64, "samples": 1024, "uid": "37f478656c0346f0be9b801fea23df7e"}], "format": "cubemap", "encoding": "luv", "type": "specular_ue4", "limitSize": 8}, {"images": [{"file": "https://media.sketchfab.com/environments/749a0594343e4ff9a2875cb411d0ad1a/15a1525065d54060a2c916e26c5e5d22.bin.gz", "sizeUncompressed": 65536, "name": "brdf_ue4.bin.gz", "sizeCompressed": 59987, "height": 128, "width": 128, "samples": 1024, "uid": "7dbb213367c04f02a1b14f95e7e8d4c5"}], "format": "lut", "type": "brdf_ue4", "encoding": "rg16"}], "uid": "749a0594343e4ff9a2875cb411d0ad1a", "brightness": 1.0, "processing": "Succeeded", "lights": [{"direction": [0.513551, -0.263755, -0.816517], "area": {"y": 0.415039, "h": 0.0722656, "w": 0.0732422, "x": 0.0893555}, "color": [17.1183, 16.8548, 17.2113], "luminosity": 324.235, "sum": 1.44712, "lum_ratio": 0.125782, "error": 0, "variance": 0.000130085}], "diffuseSPH": [3.0118, 3.21157, 4.30953, -0.979964, -1.21843, -1.92771, 1.03721, 1.23308, 1.50067, 0.41963, 0.649123, 1.01371, -0.127551, -0.163912, -0.234928, -0.372783, -0.40989, -0.474112, 0.365605, 0.324853, 0.275037, 0.440432, 0.432678, 0.444681, 0.105088, 0.0884918, 0.066645, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.015297, 0.0214977, 0.0336118, 0.0352058, 0.0383623, 0.0436961, 0.0588132, 0.0637087, 0.0728919, 0.0481168, 0.0533088, 0.0613048, 0.0126801, 0.0175287, 0.025981, -0.0535673, -0.0528214, -0.0526034, -0.0214591, -0.0178747, -0.0100431, -0.00123846, -0.0010584, -0.000385738, 0.00693736, 0.0103072, 0.0178289], "isDefault": true, "name": "Road in Tenerife mountain"}]};
+        
+            prefetchedData[ "/i/models/8a781f5025ba45b98ed6feefb909eec5/matcaps?optimized=1" ] = {"count": 2, "results": [{"uid": "43a40dd3e9c34fc0b7da9cbf07b82ac8", "createdAt": "2017-06-13T10:42:15.630044", "updatedAt": "2017-06-13T10:42:15.630056", "images": [{"url": "https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/2c08715b53aa4d0184bd40589b88bb7a.jpeg", "height": 1024, "width": 1024, "updatedAt": "2017-06-13T10:42:18.575629", "createdAt": "2017-06-13T10:42:18.575615", "size": 37249}, {"url": "https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/e6f59dec94594d51ab1edd74ed75bac5.jpeg", "height": 1024, "width": 1024, "updatedAt": "2017-06-13T10:42:18.211458", "createdAt": "2017-06-13T10:42:18.211446", "size": 37249}, {"url": "https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/06976fbe40944f1aa0a4f1146e02d064.jpeg", "height": 512, "width": 512, "updatedAt": "2017-06-13T10:42:18.132795", "createdAt": "2017-06-13T10:42:18.132783", "size": 13185}, {"url": "https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/3d9326e3e9bd47419353550cd0e22175.jpeg", "height": 512, "width": 512, "updatedAt": "2017-06-13T10:42:18.018188", "createdAt": "2017-06-13T10:42:18.018176", "size": 13185}, {"url": "https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/be9d6e4a392a4b1a93431c895d59edec.jpeg", "height": 256, "width": 256, "updatedAt": "2017-06-13T10:42:17.907503", "createdAt": "2017-06-13T10:42:17.907488", "size": 5182}, {"url": "https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/7a9b1337041041a1aa378c07b1503a91.jpeg", "height": 256, "width": 256, "updatedAt": "2017-06-13T10:42:17.756171", "createdAt": "2017-06-13T10:42:17.756153", "size": 5802}, {"url": "https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/d374d6bc98f24284b584368426f6ec73.jpeg", "height": 128, "width": 128, "updatedAt": "2017-06-13T10:42:17.693992", "createdAt": "2017-06-13T10:42:17.693979", "size": 2090}, {"url": "https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/39e5f04d945b4970baa87988e00c683e.jpeg", "height": 64, "width": 64, "updatedAt": "2017-06-13T10:42:17.497753", "createdAt": "2017-06-13T10:42:17.497738", "size": 956}, {"url": "https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/2b1e83688e1145a1a337abd439a54dde.jpeg", "height": 128, "width": 128, "updatedAt": "2017-06-13T10:42:17.450639", "createdAt": "2017-06-13T10:42:17.450627", "size": 2468}, {"url": "https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/928f27d223574a18bc3122b6f88f4d54.jpeg", "height": 64, "width": 64, "updatedAt": "2017-06-13T10:42:17.236940", "createdAt": "2017-06-13T10:42:17.236928", "size": 1278}, {"url": "https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/23bde41abc30449d89f6803d1ce8693a.jpeg", "height": 32, "width": 32, "updatedAt": "2017-06-13T10:42:16.958825", "createdAt": "2017-06-13T10:42:16.958799", "size": 856}, {"url": "https://media.sketchfab.com/matcaps/43a40dd3e9c34fc0b7da9cbf07b82ac8/d0c3a4aaf8744d608f0f425abd3474a3.jpeg", "height": 32, "width": 32, "updatedAt": "2017-06-13T10:42:16.929721", "createdAt": "2017-06-13T10:42:16.929709", "size": 856}], "isDefault": true, "name": "metal.png"}, {"uid": "35c4d334eded44d8a657f390954a32dd", "createdAt": "2017-06-13T10:42:24.132261", "updatedAt": "2017-06-13T10:42:24.132272", "images": [{"url": "https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/a77379e6fc3145a998102df4cccf2332.jpeg", "height": 1024, "width": 1024, "updatedAt": "2017-06-13T10:42:27.152111", "createdAt": "2017-06-13T10:42:27.152098", "size": 27120}, {"url": "https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/a3e162e6e0524a5097410bdc03154d3c.jpeg", "height": 512, "width": 512, "updatedAt": "2017-06-13T10:42:26.895382", "createdAt": "2017-06-13T10:42:26.895368", "size": 9631}, {"url": "https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/e7035fc0cfc84ae0bfe9df4a7703bfae.jpeg", "height": 1024, "width": 1024, "updatedAt": "2017-06-13T10:42:26.628273", "createdAt": "2017-06-13T10:42:26.628241", "size": 27120}, {"url": "https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/57290d088562432f896dd6bf10519bbb.jpeg", "height": 256, "width": 256, "updatedAt": "2017-06-13T10:42:26.609353", "createdAt": "2017-06-13T10:42:26.609339", "size": 3800}, {"url": "https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/e895d660f71249d2a4ea1114dcf6348d.jpeg", "height": 512, "width": 512, "updatedAt": "2017-06-13T10:42:26.445170", "createdAt": "2017-06-13T10:42:26.445156", "size": 11313}, {"url": "https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/23a7755128a74912b9fb9317ebedcbe6.jpeg", "height": 256, "width": 256, "updatedAt": "2017-06-13T10:42:26.274671", "createdAt": "2017-06-13T10:42:26.274657", "size": 4424}, {"url": "https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/f69430ab5cfa40ecab7a1ca115206ac8.jpeg", "height": 128, "width": 128, "updatedAt": "2017-06-13T10:42:26.147628", "createdAt": "2017-06-13T10:42:26.147615", "size": 1608}, {"url": "https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/e3f7ee638dbb4c0295b9b82aa63e3186.jpeg", "height": 128, "width": 128, "updatedAt": "2017-06-13T10:42:26.109022", "createdAt": "2017-06-13T10:42:26.109007", "size": 2002}, {"url": "https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/cc47a38e76914f42ba20fe208e7520ea.jpeg", "height": 64, "width": 64, "updatedAt": "2017-06-13T10:42:25.943292", "createdAt": "2017-06-13T10:42:25.943279", "size": 1141}, {"url": "https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/1bda0b59fe6c456988f3a9465379e6de.jpeg", "height": 64, "width": 64, "updatedAt": "2017-06-13T10:42:25.858241", "createdAt": "2017-06-13T10:42:25.858227", "size": 1141}, {"url": "https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/48f1c7b4b72b44639d1c5b4f76c24b1b.jpeg", "height": 32, "width": 32, "updatedAt": "2017-06-13T10:42:25.775423", "createdAt": "2017-06-13T10:42:25.775409", "size": 815}, {"url": "https://media.sketchfab.com/matcaps/35c4d334eded44d8a657f390954a32dd/24aa2c3128f24b90b3d3e71a49b825e2.jpeg", "height": 32, "width": 32, "updatedAt": "2017-06-13T10:42:25.593739", "createdAt": "2017-06-13T10:42:25.593726", "size": 815}], "isDefault": true, "name": "skin_soft.png"}]};
+        
+            prefetchedData[ "/i/models/8a781f5025ba45b98ed6feefb909eec5/textures?optimized=1" ] = {"count": 1, "results": [{"uid": "c7a26b32d3414ec489409587c0a8b43f", "colorSpace": "unknown", "updatedAt": "2017-10-18T07:54:55.939976", "images": [{"uid": "43a584a4704a4daca16a0bf5737ffbf4", "url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/textures/c7a26b32d3414ec489409587c0a8b43f/43a584a4704a4daca16a0bf5737ffbf4.jpg", "height": 64, "width": 64, "updatedAt": "2017-10-18T08:20:42.933766", "options": {"quality": 95, "filesize": 2668, "format": "R"}, "createdAt": "2017-10-18T08:20:42.933745", "size": 2668}, {"uid": "e5b7ceb4afa54b0990bb604babdd029e", "url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/textures/c7a26b32d3414ec489409587c0a8b43f/e5b7ceb4afa54b0990bb604babdd029e.jpg", "height": 128, "width": 128, "updatedAt": "2017-10-18T08:20:42.884954", "options": {"quality": 95, "filesize": 9000, "format": "R"}, "createdAt": "2017-10-18T08:20:42.884933", "size": 9000}, {"uid": "1343fe951433477ba09c3fa5c639ee13", "url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/textures/c7a26b32d3414ec489409587c0a8b43f/1343fe951433477ba09c3fa5c639ee13.jpg", "height": 256, "width": 256, "updatedAt": "2017-10-18T08:20:42.701598", "options": {"quality": 95, "filesize": 31176, "format": "R"}, "createdAt": "2017-10-18T08:20:42.701577", "size": 31176}, {"uid": "52c19779e8d94977af78b8a663ac0721", "url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/textures/c7a26b32d3414ec489409587c0a8b43f/52c19779e8d94977af78b8a663ac0721.jpg", "height": 512, "width": 512, "updatedAt": "2017-10-18T08:20:42.650607", "options": {"quality": 95, "filesize": 108516, "format": "R"}, "createdAt": "2017-10-18T08:20:42.650588", "size": 108516}, {"uid": "7d04b7ee4fdb4c329e5a4fd7862bb255", "url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/textures/c7a26b32d3414ec489409587c0a8b43f/7d04b7ee4fdb4c329e5a4fd7862bb255.jpg", "height": 1024, "width": 1024, "updatedAt": "2017-10-18T08:20:42.379077", "options": {"quality": 92, "filesize": 303424, "format": "R"}, "createdAt": "2017-10-18T08:20:42.379057", "size": 303424}, {"uid": "8a15c0b1563b4cc9ae1d1ff99c55c040", "url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/textures/c7a26b32d3414ec489409587c0a8b43f/8a15c0b1563b4cc9ae1d1ff99c55c040.jpg", "height": 2048, "width": 2048, "updatedAt": "2017-10-18T08:20:42.210279", "options": {"quality": 88, "filesize": 890722, "format": "R"}, "createdAt": "2017-10-18T08:20:42.210258", "size": 890722}, {"uid": "a0736d3562194b6985b0d991b29701ca", "url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/textures/c7a26b32d3414ec489409587c0a8b43f/a0736d3562194b6985b0d991b29701ca.jpg", "height": 4096, "width": 4096, "updatedAt": "2017-10-18T08:20:41.932395", "options": {"quality": 88, "filesize": 3413163, "format": "R"}, "createdAt": "2017-10-18T08:20:41.932373", "size": 3413163}, {"uid": "263497a85fb34e0eb15e5c6d443e7574", "url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/textures/c7a26b32d3414ec489409587c0a8b43f/263497a85fb34e0eb15e5c6d443e7574.jpg", "height": 8192, "width": 8192, "updatedAt": "2017-10-18T08:20:41.623079", "options": {"quality": 88, "filesize": 9376456, "format": "R"}, "createdAt": "2017-10-18T08:20:41.623054", "size": 9376456}, {"uid": "37b10c5e033d4c26890cd34215fd8370", "url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/textures/c7a26b32d3414ec489409587c0a8b43f/37b10c5e033d4c26890cd34215fd8370.jpg", "height": 4096, "width": 4096, "updatedAt": "2017-10-18T07:54:55.920577", "options": {}, "createdAt": "2017-10-18T07:54:55.920560", "size": 8443550}, {"uid": "d56c68a7a95e467ab1a479853c7ad882", "url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/textures/c7a26b32d3414ec489409587c0a8b43f/d56c68a7a95e467ab1a479853c7ad882.jpg", "height": 32, "width": 32, "updatedAt": "2017-10-18T07:54:38.900155", "options": {}, "createdAt": "2017-10-18T07:54:38.900137", "size": 1212}, {"uid": "06ed23e5ad034d5c82dd1787c34cf209", "url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/textures/c7a26b32d3414ec489409587c0a8b43f/06ed23e5ad034d5c82dd1787c34cf209.jpg", "height": 8192, "width": 8192, "updatedAt": "2017-10-18T07:54:27.240914", "options": {}, "createdAt": "2017-10-18T07:54:27.240898", "size": 7644757}], "createdAt": "2017-10-18T07:54:26.800344", "name": "Bolterdalen_Model_1936_181017_B.jpg"}]};
+        
+            prefetchedData[ "/i/models/8a781f5025ba45b98ed6feefb909eec5/hotspots?optimized=1" ] = {"count": 0, "results": []};
+        
+            prefetchedData[ "/i/models/8a781f5025ba45b98ed6feefb909eec5/backgrounds?optimized=1" ] = {"count": 1, "results": [{"uid": "51af6a870cce449eb75b0345feebaebb", "createdAt": "2014-04-06T15:11:26", "updatedAt": "2014-04-06T15:11:26", "images": [{"url": "https://media.sketchfab.com/backgrounds/51af6a870cce449eb75b0345feebaebb/de17f3816dc748c49bd6c5268f485a68.jpeg", "height": 720, "width": 1280, "updatedAt": "2014-04-06T15:11:27", "createdAt": "2014-04-06T15:11:27", "size": 43123}, {"url": "https://media.sketchfab.com/backgrounds/51af6a870cce449eb75b0345feebaebb/a32e4522a9dc470f89209ed1847b8e61.jpeg", "height": 768, "width": 1366, "updatedAt": "2014-04-06T15:11:27", "createdAt": "2014-04-06T15:11:27", "size": 51074}, {"url": "https://media.sketchfab.com/backgrounds/51af6a870cce449eb75b0345feebaebb/b75b1ef99c26403bbc88c805917fee02.jpeg", "height": 900, "width": 1600, "updatedAt": "2014-04-06T15:11:27", "createdAt": "2014-04-06T15:11:27", "size": 78920}, {"url": "https://media.sketchfab.com/backgrounds/51af6a870cce449eb75b0345feebaebb/1f02ba0b83464d6f89a61c6652849413.jpeg", "height": 1080, "width": 1920, "updatedAt": "2014-04-06T15:11:27", "createdAt": "2014-04-06T15:11:26", "size": 113550}, {"url": "https://media.sketchfab.com/backgrounds/51af6a870cce449eb75b0345feebaebb/e829ac65c215469181668152f5553356.jpeg", "height": 270, "width": 480, "updatedAt": "2014-04-06T15:11:28", "createdAt": "2014-04-06T15:11:28", "size": 3782}, {"url": "https://media.sketchfab.com/backgrounds/51af6a870cce449eb75b0345feebaebb/8431088bea764d9687b42bbad5bc0762.jpeg", "height": 360, "width": 640, "updatedAt": "2014-04-06T15:11:28", "createdAt": "2014-04-06T15:11:28", "size": 7068}, {"url": "https://media.sketchfab.com/backgrounds/51af6a870cce449eb75b0345feebaebb/1ebd1e9921a240b7b89a4dcd2ad418e6.jpeg", "height": 576, "width": 1024, "updatedAt": "2014-04-06T15:11:28", "createdAt": "2014-04-06T15:11:28", "size": 22984}], "isDefault": true, "name": "clean_dark"}]};
+        
+            prefetchedData[ "/i/models/8a781f5025ba45b98ed6feefb909eec5/animations?optimized=1" ] = {"count": 0, "results": []};
+        
+            prefetchedData[ "/i/models/8a781f5025ba45b98ed6feefb909eec5" ] = {"isInspectable": false, "createdAt": "2017-10-17T08:44:41.442892", "uid": "8a781f5025ba45b98ed6feefb909eec5", "publishedAt": "2017-10-18T07:57:11.361403", "likeCount": 0, "commentCount": 0, "isDownloadAllowed": true, "isDownloadable": false, "processedAt": "2017-10-18T07:52:14.595174", "processingStatus": 2, "name": "Bolterdalen 1936", "originalFileName": "model", "staffpickedAt": null, "isDeleted": false, "isRestricted": false, "isPrivate": true, "embedUrl": "https://sketchfab.com/models/8a781f5025ba45b98ed6feefb909eec5/embed", "status": {"processing": "SUCCEEDED", "warning": {}}, "description": "", "tags": ["agisoft", "photoscan"], "viewerUrl": "https://sketchfab.com/models/8a781f5025ba45b98ed6feefb909eec5", "isProtected": false, "files": [{"wireframeSize": 2018760, "uid": "aada3e82454245c2b02019e67baee5a0", "osgjsUrl": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/models/aada3e82454245c2b02019e67baee5a0/file.osgjs.gz", "flag": 0, "modelSize": 2394840, "osgjsSize": 22790}], "vertexCount": 127766, "user": {"username": "ErikSH", "account": "pro", "displayName": "Erik Schytt Holmlund", "uid": "69b6ecea612c4079a1efac635116b242", "avatars": {"images": [{"url": "https://media.sketchfab.com/avatars/70f72c748c8e47e692c608cb81dd7bb9/9964019cbc9646feb724466fc50f0906.jpeg", "width": 32, "size": 937, "height": 32}, {"url": "https://media.sketchfab.com/avatars/70f72c748c8e47e692c608cb81dd7bb9/1e3b6a211c0743328ca04b267e81143b.jpeg", "width": 48, "size": 1537, "height": 48}, {"url": "https://media.sketchfab.com/avatars/70f72c748c8e47e692c608cb81dd7bb9/041be27f2ba24025be586e33b04c2efb.jpeg", "width": 90, "size": 4052, "height": 90}, {"url": "https://media.sketchfab.com/avatars/70f72c748c8e47e692c608cb81dd7bb9/c661391e782b4741a27805b1f97fca8a.jpeg", "width": 100, "size": 4503, "height": 100}], "uid": "70f72c748c8e47e692c608cb81dd7bb9"}, "profileUrl": "https://sketchfab.com/ErikSH"}, "categories": [], "animationCount": 0, "viewCount": 0, "thumbnails": {"images": [{"url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/thumbnails/16eb4397e634452993309b2b536f73e6/1024x576.jpeg", "width": 1024, "height": 576, "uid": "9b832d42c5aa43aaad99cbb0ba958575", "size": 167595}, {"url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/thumbnails/16eb4397e634452993309b2b536f73e6/720x405.jpeg", "width": 720, "height": 405, "uid": "0a185c2c6a7a448aacede6348b404893", "size": 91706}, {"url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/thumbnails/16eb4397e634452993309b2b536f73e6/256x144.jpeg", "width": 256, "height": 144, "uid": "e3bfb9d7e83641889693a51981e6051c", "size": 14481}, {"url": "https://media.sketchfab.com/urls/8a781f5025ba45b98ed6feefb909eec5/dist/thumbnails/16eb4397e634452993309b2b536f73e6/64x36.jpeg", "width": 64, "height": 36, "uid": "cb49b0c5e1d848c1bbe713b351c7d0c0", "size": 1523}], "uid": "16eb4397e634452993309b2b536f73e6"}, "license": null, "editorUrl": "https://sketchfab.com/models/8a781f5025ba45b98ed6feefb909eec5/edit", "isPublished": true, "archiveSize": 17870791, "faceCount": 250000, "ext": "ply", "downloadCount": 0, "options": {"sound": {"soundtracks": []}, "orientation": {"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]}, "camera": {"right": 3.1415926536, "useCameraConstraints": false, "target": [-8329.6620218776, -8393.1060898286, 390.1605002137], "zoomOut": 251326, "up": 1.5550883635, "down": -1.5550883635, "usePitchConstraints": false, "useYawConstraints": false, "position": [-17026.2697109492, 3432.0352537129, 10384.8557996722], "useZoomConstraints": false, "zoomIn": 0, "left": -3.1415926536}, "wireframe": {"color": "000000FF", "enable": false}, "scene": {"sssProfiles": [{"strength": [0.48, 0.41, 0.28], "falloff": [1, 0.37, 0.3]}, {"strength": [0.38, 0.61, 0.68], "falloff": [0.5, 0.67, 0.6]}, {"strength": [0.88, 0.61, 0.28], "falloff": [0.7, 0.77, 0.3]}], "fov": 21, "nearFarRatio": 0.005, "postProcess": {"toneMapping": {"saturation": 1, "enable": false, "brightness": 0, "method": "default", "contrast": 0, "exposure": 1}, "enable": true, "dof": {"focusPoint": [0, 0, 0], "blurFar": 0.5, "enable": false, "blurNear": 0.5}, "vignette": {"lens": [0.8, 0.25], "enable": false}, "grain": {"enable": false, "animated": false, "factor": 0.15}, "taa": {"enable": true, "transparent": true}, "ssao": {"bias": 62.8316837171, "intensity": 0.5, "enable": false, "radius": 314.1584185855}, "chromaticAberration": {"enable": false, "factor": 0.05}, "sharpen": {"enable": true, "factor": 0.3408950617}, "colorBalance": {"high": [0, 0, 0], "enable": false, "low": [0, 0, 0], "mid": [0, 0, 0]}, "bloom": {"threshold": 0, "enable": false, "radius": 0.7, "factor": 0.5}}}, "hotspot": {"hotspots": []}, "materials": {"ef0e68e8-1f18-4183-a429-f7c93841d161": {"stateSetID": 1, "name": "material_0", "shadeless": false, "channels": {"Matcap": {"color": [1, 1, 1], "enable": true, "curvature": 0, "texture": {"wrapS": "REPEAT", "minFilter": "LINEAR_MIPMAP_LINEAR", "uid": "35c4d334eded44d8a657f390954a32dd", "textureTarget": "TEXTURE_2D", "magFilter": "LINEAR", "texCoordUnit": 0, "internalFormat": "RGB", "wrapT": "REPEAT"}, "factor": 1}, "Opacity": {"color": [1, 1, 1], "invert": false, "enable": true, "type": "alphaBlend", "factor": 1}, "SpecularHardness": {"color": [1, 1, 1], "enable": true, "factor": 12.5}, "SubsurfaceScattering": {"color": [1, 1, 1], "profile": 1, "enable": false, "factor": 809.0504231343}, "DiffuseColor": {"color": [1, 1, 1], "enable": true, "factor": 1}, "SubsurfaceTranslucency": {"color": [0.98, 0.3, 0.2], "thicknessFactor": 809.0504231343, "enable": false, "factor": 1}, "EmitColor": {"color": [1, 1, 1], "enable": true, "type": "additive", "factor": 0}, "AOPBR": {"color": [1, 1, 1], "occludeSpecular": false, "enable": false, "factor": 1}, "Displacement": {"color": [1, 1, 1], "enable": true, "factor": 0}, "DiffusePBR": {"color": [1, 1, 1], "enable": false, "factor": 1}, "SpecularColor": {"color": [0.5, 0.5, 0.5], "enable": true, "factor": 0}, "RoughnessPBR": {"color": [1, 1, 1], "enable": true, "factor": 0.6}, "DiffuseIntensity": {"color": [1, 1, 1], "enable": true, "factor": 1}, "GlossinessPBR": {"color": [1, 1, 1], "enable": false, "factor": 0.4}, "AlbedoPBR": {"enable": true, "texture": {"wrapS": "REPEAT", "minFilter": "LINEAR_MIPMAP_LINEAR", "uid": "c7a26b32d3414ec489409587c0a8b43f", "textureTarget": "TEXTURE_2D", "magFilter": "LINEAR", "texCoordUnit": 0, "internalFormat": "LUMINANCE", "wrapT": "REPEAT"}, "factor": 1}, "NormalMap": {"color": [1, 1, 1], "factor": 1, "enable": false, "flipY": true}, "BumpMap": {"color": [1, 1, 1], "enable": false, "factor": 1}, "SpecularF0": {"color": [1, 1, 1], "enable": true, "factor": 0.5}, "MetalnessPBR": {"color": [1, 1, 1], "enable": true, "factor": 0}, "SpecularPBR": {"color": [1, 1, 1], "enable": false, "factor": 0.05}, "CavityPBR": {"color": [1, 1, 1], "enable": false, "factor": 1}}, "version": 3, "cullFace": "DISABLE", "id": "ef0e68e8-1f18-4183-a429-f7c93841d161", "reflection": 0.1}, "updatedAt": 15083134230}, "environment": {"backgroundExposure": 1, "enable": true, "uid": "749a0594343e4ff9a2875cb411d0ad1a", "shadowEnable": true, "lightIntensity": 1, "blur": 0.1, "shadowBias": 0.005, "rotation": 0, "exposure": 1}, "vr": {"displayFloor": true, "scale": 6283.1683717108, "floorHeight": -502.7210083008, "initialCamera": {"position": [0.0043945312, -15079.6114163247, -502.7210083008], "rotation": [0, 0, 0, 1]}}, "version": 4, "lighting": {"lights": [{"enable": true, "angle": 45, "matrix": [-0.98158045, 0.1909922167, -0.0046683273, 0, 0.135483471, 0.7131126062, 0.6878332937, 0, 0.1346998486, 0.6745312328, -0.7258536814, 0, 1354.1513195975, 6781.1019679495, -7297.0572921014, 1], "color": [0.7806122449, 0.7985214494, 1], "intensityGround": 1, "attachedToCamera": true, "falloff": 2.47e-08, "shadowSize": 1024, "castShadows": true, "intensity": 0.96, "shadowBias": 0.005, "type": "DIRECTION", "hardness": 0.5, "ground": [0.3, 0.2, 0.2]}, {"enable": true, "angle": 45, "matrix": [0.7755211495, -0.066660286, 0.6277924442, 0, 0.2690483737, 0.9344846523, -0.2331338825, 0, -0.5711216326, 0.3497067927, 0.7426474533, 0, -5741.5210110803, 3515.6193302172, 7465.8865213254, 1], "color": [1, 0.878331945, 0.7091836735], "intensityGround": 1, "attachedToCamera": true, "falloff": 2.47e-08, "shadowSize": 1024, "castShadows": true, "intensity": 1, "shadowBias": 0.005, "type": "DIRECTION", "hardness": 0.5, "ground": [0.3, 0.2, 0.2]}, {"enable": true, "angle": 45, "matrix": [0.6903299131, -0.7076363669, -0.1506498699, 0, -0.0110896982, 0.197851373, -0.980169298, 0, 0.7234097246, 0.6783108479, 0.1287352474, 0, 7272.4925569246, 6819.098701197, 1294.1845126756, 1], "color": [0.4234693878, 0.7352665556, 1], "intensityGround": 0.06, "attachedToCamera": false, "falloff": 2.47e-08, "shadowSize": 1024, "castShadows": true, "intensity": 0.12, "shadowBias": 0.005, "type": "HEMI", "hardness": 0.5, "ground": [0.9642857143, 0.6484128637, 0.2607507289]}], "enable": false}, "background": {"color": [0.5833333333, 0.5833333333, 0.5833333333], "enable": "color", "uid": "51af6a870cce449eb75b0345feebaebb"}, "updatedAt": "2017-10-18T07:57:03.028905", "shading": {"vertexColor": {"enable": false, "colorSpace": "srgb", "useAlpha": false}, "pointSize": 2, "type": "shadeless", "renderer": "pbr"}, "animation": {"speed": 1, "order": [], "cycleMode": "one", "autoplay": false}, "createdAt": "2017-10-17T08:44:41.458945"}};
+        
+            prefetchedData[ "embedOptions" ] = {"grainSpeed": 64, "shadowJitterOffset": "default", "vrLinkNavigation": 0, "cameraEye": null, "vrForceRaf": false, "soundMute": false, "materialMetalness": null, "postProcess": true, "shadowPCF": "1Tap(4texFetch)", "cameraConstraints": true, "shadowNormalOffset": false, "vrMirror": false, "materialTransparency": null, "dofSticky": false, "materialCavity": null, "snapKeyframe": false, "autostart": true, "vrStereo": true, "annotationsVisible": true, "webglRestore": 3, "soundPreload": false, "orbitConstraintZoomIn": null, "drsMin": 0.5, "processMaterial": false, "orbitConstraintPitchUp": null, "uiInspectorOpen": false, "uiTheatre": false, "downloadPicture": false, "transparent": false, "normalCompression": "percep", "floatRtt": 2, "uiSound": true, "cameraFollowBones": 0, "uiVr": true, "animationAutoplay": true, "substanceDisplacement": false, "uiSnapshots": false, "forceControllerOrientation": 0.35, "anisotropy": true, "materialGlossiness": null, "resizeTimeout": 1000, "modelOptimization": null, "uiHelp": true, "taaJitter": null, "epsilonAlpha": 1e-05, "splitLimit": 65535, "orbitConstraintYawRight": null, "zoct": false, "vrGenerateUiTextures": true, "materialShowcase": false, "doubleClick": true, "zw": true, "zq": true, "uiControls": true, "drsFps": 30, "uiFadeout": true, "stats": false, "maxVertexUniforms": 8192, "pixelBudget": null, "shadowTextureSize": 1024, "materialEmissive": null, "pratio": null, "preload": false, "autospin": 0, "uiInspector": true, "uiWatermark": false, "apiId": null, "debug3D": false, "varyingSorting": true, "cardboard": 0, "materialNames": "main_material", "supersample": true, "uiSettings": true, "dofTransition": true, "webglTimerGpu": true, "ssaoNormal": false, "materialRoughness": null, "vrInNavigation": 0, "uiStop": false, "messaging": null, "navigation": "orbit", "unitRenderUid": null, "taaTransparent": null, "materialSpecular": null, "uiGeneralControls": true, "materialDiffuse": null, "materialF0": null, "isApp": false, "vrFade": 200, "shadowEnv": true, "panorama": false, "cameraEasing": null, "drsRatio": 0.0, "soundEnable": true, "annotationCycle": null, "unitRenderScreenshot": false, "annotation": 0, "materialAo": null, "powerPreference": "default", "preserveDrawingBuffer": false, "arkit": false, "orbitConstraintPan": null, "cameraTarget": null, "arkitDebug": false, "vrAr": false, "tab": null, "vrBrowserEnv": "c0022acc4f3242e2bcae8043e08df8cc", "forceController": "", "graphOptimizer": null, "uiHint": 1, "uiRelated": true, "imageCompression": true, "unitRenderLocal": false, "carmel": false, "zz": null, "showBones": 0, "share": false, "dofAttenuateSpeed": false, "asyncImage": false, "useVao": true, "taa": null, "sssJitter": 1.0, "singleSided": null, "processOptions": false, "shadowAtlas": false, "scrollwheel": true, "continuousRender": false, "uiAnimations": true, "uiFullscreen": true, "materialDisplacement": null, "internal": true, "zr": true, "vrLauncherAlphaCardFactor": 1, "fpsSpeed": 5, "shadowEnvDebug": false, "materialPacking": null, "camera": true, "materialDisplacementFactor": null, "convertVertexColor8Bit": true, "taaFeedbackMax": 0.97, "orbitConstraintPitchDown": null, "webgl2": null, "mergeMaterials": null, "dofRes": 2, "maxTextureSize": 8192, "dofAttenuateDistance": true, "tracking": false, "uiAnnotations": true, "maxTextureUnit": 32, "materialNormal": null, "orbitConstraintZoomOut": null, "orbitConstraintYawLeft": null, "apiVersion": null, "taaFeedbackMin": 0.88, "keepEmptyGeometries": false, "vrScaleRtt": 0, "sssKernel": 17, "model": null, "uiInfos": false};
+        
+            prefetchedData[ "/i/users/me" ] = {"isAnonymous": true, "allowsRestricted": false};
+        
+            prefetchedData[ "/i/models/8a781f5025ba45b98ed6feefb909eec5/sounds?optimized=1" ] = {"count": 0, "results": []};
+        
+
+    } )( window );</script>
+
+
+
+        
+        
+
+    <script type="text/javascript">
+
+        var getReferrerOverride = function () {
+            // As always, accessing document.cookie in an iframe is subject to
+            // iframe sandboxing policy, which is up to the embedder. We can't assume
+            // it'll always work. And when it doesn't, it's uncaught throw party.
+            try {
+                var unauthorizedReferrers = ['facebook.com\\/.*?\\/?dialog\\/oauth.*?', 'facebook\\.com\\/login$', 'facebook\\.com\\/l.php$'] || [];
+                var trueReferrer = ( document.cookie + ';' ).match( /skfb_referrer_override=(.*?);/i );
+                var referrer = document.referrer;
+                var override = false;
+
+                trueReferrer = ( trueReferrer && trueReferrer.length > 1 ) ? trueReferrer[1] : '';
+                trueReferrer = decodeURIComponent( trueReferrer );
+
+                unauthorizedReferrers.forEach( function (domain) {
+                    if ( override ) return;
+                    override = !!referrer.match( domain );
+                } );
+
+                if ( override ) {
+                    console.info( 'Overriding referrer with : ', trueReferrer );
+                    ga( 'set', 'referrer', trueReferrer );
+                }
+
+                if ( override ) { return trueReferrer; }
+                else { return false; }
+            } catch (e) {
+                return false;
+            }
+
+        };
+
+    </script>
+
+    
+        
+
+    
+
+    
+    
+    
+
+    <script>
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        
+
+        
+            ga( 'create', 'UA-22680456-3' );
+        
+
+        var referrerOverride = getReferrerOverride();
+        if (referrerOverride !== false) {
+            ga('set', 'referrer', referrerOverride);
+        }
+
+        
+
+        // Optimizely Universal Analytics Integration
+        window.optimizely = window.optimizely || [];
+        window.optimizely.push( 'activateUniversalAnalytics' );
+
+        
+            ga( 'send', 'pageview' );
+        
+
+    </script>
+
+
+    
+
+    
+        
+
+    <script type="text/javascript">
+
+        
+        (function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+        for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
+
+        mixpanel.init( '19e13788a6453a55d8a020934e944286' );
+
+        
+        
+
+        
+        
+        </script>
+
+
+    
+
+    
+        
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PD58G7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+{'gtm.start': new Date().getTime(),event:'gtm.js'}
+);var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PD58G7');</script>
+
+
+
+    
+
+
+
+        
+        
+    <script type="text/javascript">
+        window['webpackManifest'] = JSON.parse('{"0":"0-6e6b75e201f6e4c9d74c.js","1":"1-cf4f5978458e7086229c.js","2":"2-a41abe75810981c2a7f9.js","3":"3-4a7cf146fadbe3dd00ad.js","4":"4-db6e7259704969cf89fb.js","5":"5-52b2de70c1da3694e215.js","6":"6-2bd0a6e6c693f2c10544.js","7":"7-c7423fad5bfef8903061.js","8":"8-64ec83cb5ba40af78e76.js","9":"9-dcb07aab2043520addb6.js","10":"10-f2867f78da0ed3010607.js","11":"11-617f557404916d282f6b.js","12":"12-2bac5bace8794ae5e466.js","13":"13-d9da44bb7c005c19a5e1.js","14":"14-cdccfbc8c2387ac2290f.js","15":"15-c4798d1b3c0cd9dd8520.js","16":"16-cf45c6fe868d7881801d.js","17":"17-df3b2511ac354c049429.js","18":"18-f005ee5ac74145d0667e.js","19":"19-606ee20f555a2eec1ecd.js","20":"20-bf40d1cb3cabc580e55b.js","21":"21-3669f2bd4f0e59b17775.js","22":"22-c3fecbb4d28e01546a00.js","23":"23-af74fb5fe3f4f069169d.js","24":"24-8b958d82dc296f9f806e.js","25":"25-5e1a22cddb88273a2d57.js","26":"26-853fee66cf9165fe2408.js","27":"27-17f693ab90d38c313e88.js","28":"28-4f9b40d1f4f56a0a7a02.js","29":"29-795e670e84d3700dc023.js","30":"30-465c627234138827173a.js","31":"31-cf337f682bfd4ddaa79c.js","32":"32-b62f1d03b71aed5e84b6.js","33":"33-f6fcf6f8ed0227e01ae2.js","34":"34-0c55104e7a3cbaedd80d.js","35":"35-0def881bd2fad5692d59.js","36":"36-0afd61d0ebafb95b9d9a.js","37":"37-b827d07a67faa29855d3.js","38":"38-288fde83ef9c601630d4.js","39":"39-aa1edc1b85e76d84108a.js","40":"40-98501972347c52d26400.js","41":"41-85f141035250c3d85253.js","42":"42-29136d6404907dad111f.js","43":"43-01b999b0d9f17240a787.js","44":"44-f0c2e7aae36685d2d66c.js","45":"45-e06a3fca2e6736faa4df.js","46":"46-09a9cdc30691379a5592.js"}');
+    </script>
+
+
+
+        
+        
+
+    <script src="//e6f79c614c67.sketchfab.com/" defer="defer" async="async"></script>
+
+
+
+
+        <script src="https://static.sketchfab.com/static/builds/web/dist/commons-2d7aac7abb2f5277c075.js" crossorigin="anonymous"></script>
+        <script src="https://static.sketchfab.com/static/builds/web/dist/website-commons-cf337f682bfd4ddaa79c.js" crossorigin="anonymous"></script>
+
+
+        
+    
+    
+    <script type="text/javascript">
+        window.sketchfabRuntime = JSON.parse('{"facebookAppId": "1418631828415333", "version": "2.98.1", "publicPath": "https://static.sketchfab.com/static/builds/web/dist/", "features": {}, "cdnDomains": {"media": "media.sketchfab.com", "static": "static.sketchfab.com"}, "buildMode": "dist", "sentryDSN": "https://ba5fe81e595a4e73a5e37be93623537d@sentry.io/132069", "forum": {"baseUrl": "https://forum.sketchfab.com"}, "useSentry": true}');
+        window.webpackPublicPath = 'https://static.sketchfab.com/static/builds/web/dist/';
+    </script>
+    <script src="https://static.sketchfab.com/static/builds/web/dist/viewer-853fee66cf9165fe2408.js" crossorigin="anonymous"></script>
+
+    
+    <script type="text/javascript">
+        window.sketchfabRuntime = JSON.parse('{"facebookAppId": "1418631828415333", "version": "2.98.1", "publicPath": "https://static.sketchfab.com/static/builds/web/dist/", "features": {}, "cdnDomains": {"media": "media.sketchfab.com", "static": "static.sketchfab.com"}, "buildMode": "dist", "sentryDSN": "https://ba5fe81e595a4e73a5e37be93623537d@sentry.io/132069", "forum": {"baseUrl": "https://forum.sketchfab.com"}, "useSentry": true}');
+        window.webpackPublicPath = 'https://static.sketchfab.com/static/builds/web/dist/';
+    </script>
+    <script src="https://static.sketchfab.com/static/builds/web/dist/standaloneViewer-01b999b0d9f17240a787.js" crossorigin="anonymous"></script>
+
+    
+    <script type="text/javascript">
+        window.sketchfabRuntime = JSON.parse('{"facebookAppId": "1418631828415333", "version": "2.98.1", "publicPath": "https://static.sketchfab.com/static/builds/web/dist/", "features": {}, "cdnDomains": {"media": "media.sketchfab.com", "static": "static.sketchfab.com"}, "buildMode": "dist", "sentryDSN": "https://ba5fe81e595a4e73a5e37be93623537d@sentry.io/132069", "forum": {"baseUrl": "https://forum.sketchfab.com"}, "useSentry": true}');
+        window.webpackPublicPath = 'https://static.sketchfab.com/static/builds/web/dist/';
+    </script>
+    <script src="https://static.sketchfab.com/static/builds/web/dist/model-f6fcf6f8ed0227e01ae2.js" crossorigin="anonymous"></script>
+
+
+
+    </body>
+
+</html>
